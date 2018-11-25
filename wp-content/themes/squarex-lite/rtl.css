@@ -1,0 +1,23 @@
+/*
+ * Theme Name: Squarex Lite
+ * Adding support for language written in a Right To Left (RTL)
+ */
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+body.rtl {
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+.rtl li > ul,
+.rtl li > ol {
+	margin: 0 23px 0 0;
+}
+
+.rtl table th,
+.rtl table caption {
+	text-align: right;
+}

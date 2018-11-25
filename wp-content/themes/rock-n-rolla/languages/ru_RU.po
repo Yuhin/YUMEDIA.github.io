@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rock N Rolla v10.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-03-06 20:30+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ rock-n-rolla
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Это страница не может быть найдена."
+
+# @ rock-n-rolla
+#: 404.php:27
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ничего не было найдено. Может попробовать одну из следующих ссылок или новый поиск?"
+
+# @ rock-n-rolla
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ rock-n-rolla
+#: comments.php:41 comments.php:63
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ rock-n-rolla
+#: comments.php:44 comments.php:66
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ rock-n-rolla
+#: comments.php:45 comments.php:67
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ rock-n-rolla
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+# @ rock-n-rolla
+#: footer.php:41 header.php:62
+msgid "Facebook"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:44 header.php:65
+msgid "Twitter"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:47 header.php:68
+msgid "Google Plus"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:50 header.php:71
+msgid "Pinterest"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:53 header.php:74
+msgid "Linkedin"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:56 header.php:77
+msgid "Youtube"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:59 header.php:80
+msgid "Tumbler"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:62 header.php:83
+msgid "Instagram"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:65 header.php:86
+msgid "Flicker"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:68 header.php:89
+msgid "Vimeo"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:71 header.php:92
+msgid "RSS"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:74 header.php:95
+msgid "mailto:"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:74 header.php:95
+msgid "Email"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:82
+#, php-format
+msgid "Powered by <a href=\"%s\">WordPress</a>"
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:83
+msgid " and "
+msgstr ""
+
+# @ rock-n-rolla
+#: footer.php:83
+msgid "Bandthemes"
+msgstr ""
+
+# @ rock-n-rolla
+#: functions.php:60
+msgid "Primary"
+msgstr "Основное"
+
+# @ rock-n-rolla
+#: functions.php:115
+msgid "Sidebar"
+msgstr ""
+
+# @ rock-n-rolla
+#: functions.php:117
+msgid "Add widgets here."
+msgstr "Добавьте свои виджеты."
+
+# @ rock-n-rolla
+#: functions.php:125
+msgid "Footer One"
+msgstr ""
+
+# @ rock-n-rolla
+#: functions.php:134
+msgid "Footer Two"
+msgstr ""
+
+# @ rock-n-rolla
+#: functions.php:143
+msgid "Footer Three"
+msgstr ""
+
+# @ rock-n-rolla
+#: header.php:26
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ rock-n-rolla
+#: inc/customizer.php:36
+msgid "Home Page Features"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:37
+msgid "Home Page Features Panel"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:42
+msgid "Slider"
+msgstr "Слайдер"
+
+# @ rock-n-rolla
+#: inc/customizer.php:44
+msgid "Slider Option"
+msgstr "Опции слайдера"
+
+# @ rock-n-rolla
+#: inc/customizer.php:55
+msgid "Display Slider"
+msgstr "Отображать слайдер"
+
+# @ rock-n-rolla
+#: inc/customizer.php:84
+msgid "Select Category:"
+msgstr "Выберите рубрику:"
+
+# @ rock-n-rolla
+#: inc/customizer.php:97 inc/customizer.php:175
+msgid "Slider Speed (milliseconds)"
+msgstr "Слайдер Скорость (миллисекунды)"
+
+# @ rock-n-rolla
+#: inc/customizer.php:105
+msgid "Carousel"
+msgstr "Карусель"
+
+# @ rock-n-rolla
+#: inc/customizer.php:107
+msgid "Carousel Option"
+msgstr "Карусель Опции"
+
+# @ rock-n-rolla
+#: inc/customizer.php:118 inc/customizer.php:211 inc/customizer.php:246
+msgid "Enter Desired Label"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:132
+msgid "Display Carousel"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:183
+msgid "Music Player"
+msgstr "Музыкальный плеер"
+
+# @ rock-n-rolla
+#: inc/customizer.php:185
+msgid "Music Player Option"
+msgstr "Музыкальный плеер Варианты"
+
+# @ rock-n-rolla
+#: inc/customizer.php:190 inc/customizer.php:196
+msgid "Enter Album or Music link"
+msgstr "Введите альбом или музыкальную ссылку"
+
+# @ rock-n-rolla
+#: inc/customizer.php:226
+msgid "Display Music Album"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:234
+msgid "Post Label"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:236
+msgid "Post Label Option"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:241 index.php:34
+msgid "Latest post"
+msgstr "Последняя запись"
+
+# @ rock-n-rolla
+#: inc/customizer.php:255
+msgid "Social Media Icons"
+msgstr "Значки соц. сетей"
+
+# @ rock-n-rolla
+#: inc/customizer.php:257
+msgid "Optional social media buttons in the header"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:265
+msgid "Enter your Facebook url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:276
+msgid "Enter your Twitter url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:287
+msgid "Enter your Google+ url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:298
+msgid "Enter your Pinterest url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:309
+msgid "Enter your Linkedin url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:320
+msgid "Enter your Youtube url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:331
+msgid "Enter your Tumblr url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:342
+msgid "Enter your Instagram url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:353
+msgid "Enter your Flickr url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:364
+msgid "Enter your Vimeo url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:374
+msgid "Enter your RSS url"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:385
+msgid "Enter your email address"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/customizer.php:398
+msgid "Theme Primary Color"
+msgstr "Тема Основной цвет"
+
+# @ rock-n-rolla
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/template-tags.php:34
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/template-tags.php:41 inc/widget.php:50
+msgid "Leave a Comment"
+msgstr "Комментировать"
+
+# @ rock-n-rolla
+#: inc/template-tags.php:43 inc/widget.php:52
+msgid "Comment is Closed"
+msgstr " Комментарии закрыты"
+
+# @ rock-n-rolla
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/template-tags.php:58
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Категории: %1$s"
+
+# @ rock-n-rolla
+#: inc/template-tags.php:64
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+# @ rock-n-rolla
+#. translators: %s: post title
+#: inc/template-tags.php:71
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий <span class=\"screen-reader-text\">на %s</span>"
+
+# @ rock-n-rolla
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:78 template-parts/content-page.php:31
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+# @ rock-n-rolla
+#: inc/widget.php:10 inc/widget.php:19
+msgid "Rock N Rolla Recent Post"
+msgstr ""
+
+# @ rock-n-rolla
+#: inc/widget.php:97
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ rock-n-rolla
+#: inc/widget.php:102
+msgid "Display Thumbnail:"
+msgstr "Отображения миниатюр:"
+
+# @ rock-n-rolla
+#: inc/widget.php:105
+msgid "Number of posts to show:"
+msgstr "Количество записей для отображения:"
+
+# @ rock-n-rolla
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+# @ rock-n-rolla
+#: searchform.php:4
+msgid "Search here.."
+msgstr "Искать здесь..."
+
+# @ rock-n-rolla
+#: searchform.php:6
+msgid "Search for:"
+msgstr "Поиск для: "
+
+# @ rock-n-rolla
+#: searchform.php:9
+msgid "Search"
+msgstr "Поиск"
+
+# @ rock-n-rolla
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ rock-n-rolla
+#: template-parts/content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ rock-n-rolla
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ rock-n-rolla
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы можем и найти то, что вы  ищете. Возможно, поиск может помочь."
+
+# @ rock-n-rolla
+#: template-parts/content-page.php:20 template-parts/content-single.php:21
+msgid "Pages:"
+msgstr "Страницы: "
+
+# @ rock-n-rolla
+#: template-parts/content-search.php:42 template-parts/content.php:51
+msgid "Read More"
+msgstr "Подробнее"

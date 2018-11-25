@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: squarex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-11 19:32+0800\n"
+"PO-Revision-Date: 2016-02-11 19:32+0800\n"
+"Last-Translator: dinevthemes <post@makewp.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка: страница не найдена."
+
+#: comments.php:17
+#, fuzzy
+msgid "Comments: "
+msgstr "Комментарии:"
+
+#: comments.php:17
+msgid "0"
+msgstr ""
+
+#: comments.php:17
+msgid "1"
+msgstr ""
+
+#: comments.php:17
+msgid "%"
+msgstr ""
+
+#: comments.php:22 comments.php:36
+msgid "Comment navigation"
+msgstr "навигация по комментариям"
+
+#: comments.php:23 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "Комментарии Ранее"
+
+#: comments.php:24 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Комментарии Далее"
+
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:54
+#, fuzzy
+msgid "Post Comment"
+msgstr "Один комментарий"
+
+#: content-fullwidth.php:24 content-page.php:25 content.php:47
+msgid "Pages:"
+msgstr "Страницы"
+
+#: content-fullwidth.php:30 content-page.php:31 content.php:65 image.php:48
+#: inc/template-tags.php:71 inc/template-tags.php:89
+msgid "Edit"
+msgstr "Редактировать"
+
+#: content.php:33
+msgid "Written by "
+msgstr ""
+
+#: functions.php:87 inc/contextual-help.php:79
+msgid "Off-canvas Menu"
+msgstr ""
+
+#: functions.php:88
+#, fuzzy
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:89 inc/contextual-help.php:74
+msgid "Social Menu"
+msgstr "Соцсети меню"
+
+#: functions.php:123
+#, fuzzy
+msgid "Off-Canvas Sidebar"
+msgstr "Колонка страниц"
+
+#: functions.php:131
+#, fuzzy
+msgid "Pages Sidebar"
+msgstr "Колонка страниц"
+
+#: functions.php:139
+msgid "Posts page Header"
+msgstr ""
+
+#: functions.php:140
+msgid "The header area for posts page."
+msgstr ""
+
+#: functions.php:148
+#, fuzzy
+msgid "Footer1"
+msgstr "Футер1"
+
+#: functions.php:149
+#, fuzzy
+msgid "Footer left column"
+msgstr "Меню в подвале"
+
+#: functions.php:157
+msgid "Footer2"
+msgstr "Футер2"
+
+#: functions.php:158
+#, fuzzy
+msgid "Footer center column"
+msgstr "Меню в подвале"
+
+#: functions.php:166
+msgid "Footer3"
+msgstr "Футер3"
+
+#: functions.php:167
+msgid "Footer right column."
+msgstr ""
+
+#: header.php:102
+#, fuzzy
+msgid "Menu"
+msgstr "Верхнее меню"
+
+#: image.php:34
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: no-results.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: no-results.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Ничего не найдено."
+
+#: no-results.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Попробуйте поиском."
+
+#: search-mobile.php:11 searchform.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: search.php:34
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/back-compat.php:22
+#, php-format
+msgid ""
+"Squarex requires at least WordPress version 4.2. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/back-compat.php:30 inc/back-compat.php:41
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.2. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/contextual-help.php:16 inc/welcome.php:47 inc/welcome.php:48
+msgid "Squarex Theme"
+msgstr ""
+
+#: inc/contextual-help.php:17
+msgid "Thank you for choosing Squarex Theme!"
+msgstr ""
+
+#: inc/contextual-help.php:17
+msgid ""
+"The Squarex has a contextual help for almost all admin screens. More "
+"information, help and support you will find on the website www.dinevthemes."
+"com."
+msgstr ""
+
+#: inc/contextual-help.php:17
+msgid "Getting started"
+msgstr ""
+
+#: inc/contextual-help.php:17
+msgid ""
+"Using Customizer set your color, upload a logo image, a background image and "
+"other settings."
+msgstr ""
+
+#: inc/contextual-help.php:17
+msgid ""
+"The theme has page templates for the Home Page. To choose the front page "
+"template in the Page Attributes when editing the page."
+msgstr ""
+
+#: inc/contextual-help.php:17
+msgid ""
+"If you want to display the pages without sidebar, just leave blank Pages "
+"sidebar."
+msgstr ""
+
+#: inc/contextual-help.php:26 inc/contextual-help.php:27
+#: inc/contextual-help.php:36 inc/contextual-help.php:37
+#: inc/contextual-help.php:46 inc/contextual-help.php:65
+msgid "Theme Features"
+msgstr ""
+
+#: inc/contextual-help.php:27 inc/contextual-help.php:37
+msgid "Use Featured image"
+msgstr ""
+
+#: inc/contextual-help.php:27
+msgid ""
+"Featured image used for the cover of the header post. Upload the image that "
+"will be displayed header on single post."
+msgstr ""
+
+#: inc/contextual-help.php:37
+msgid ""
+"Featured image used for the cover of the header page. Upload the image that "
+"will be displayed header on page."
+msgstr ""
+
+#: inc/contextual-help.php:37
+msgid "Use Excerpt"
+msgstr ""
+
+#: inc/contextual-help.php:37
+msgid ""
+"Enter text in field Excerpt to display announcement of the page content."
+msgstr ""
+
+#: inc/contextual-help.php:47 inc/contextual-help.php:75
+msgid "Custom widgets"
+msgstr ""
+
+#: inc/contextual-help.php:47
+msgid ""
+"Theme widgets is marked Squarex. If you want to display pages without "
+"sidebar just leave blank Pages sidebar."
+msgstr ""
+
+#: inc/contextual-help.php:47
+msgid ""
+"The Squarex has a widgetized home page using the Home Widgets page template. "
+"To choose the front page template in the Page Attributes when editing the "
+"page."
+msgstr ""
+
+#: inc/contextual-help.php:55
+msgid "Recommend"
+msgstr ""
+
+#: inc/contextual-help.php:56
+msgid "Recommended plugins for Squarex Theme"
+msgstr ""
+
+#: inc/contextual-help.php:56
+msgid "Jetpack By WordPress.com"
+msgstr ""
+
+#: inc/contextual-help.php:56
+msgid "Contact Form 7 By Takayuki Miyoshi"
+msgstr ""
+
+#: inc/contextual-help.php:56
+msgid "Shortcodes Ultimate By Vladimir Anokhin."
+msgstr ""
+
+#: inc/contextual-help.php:66
+#, fuzzy
+msgid "Custom Header background Color"
+msgstr "Фоновый цвет"
+
+#: inc/contextual-help.php:66
+msgid ""
+"Background color header set using Customizer. Go to Customize > Colors: "
+"Header BG Color"
+msgstr ""
+
+#: inc/contextual-help.php:75
+msgid ""
+"Menu icons social media is displayed in the footer. Included all popular "
+"icons of social media, and Feedburner. To create a menu item, use the tab "
+"Links (Edit Menus). And select Social Menu as Theme locations."
+msgstr ""
+
+#: inc/contextual-help.php:75
+msgid ""
+"Example:<br />tab <strong>Links</strong><br /><em>URL</em> http://twitter."
+"com/your<br /><em>Navigation Label</em> Twitter"
+msgstr ""
+
+#: inc/contextual-help.php:80
+msgid ""
+"<p><strong>Off-canvas Menu</strong></p><p>The theme has an additional Off-"
+"canvas Menu.</p><p>Off-canvas menu will not be shown if one created menu "
+"selected location Primary.</p>"
+msgstr ""
+
+#: inc/pagination.php:46
+#, fuzzy
+msgid "Posts navigation"
+msgstr "Навигация"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Навигация"
+
+#: inc/template-tags.php:44
+msgid "Older"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Newer"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Ссылаются:"
+
+#: inc/template-tags.php:81
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает проверки."
+
+#: inc/template-tags.php:184
+#, php-format
+msgid ""
+"<span class=\"posted-on\">%1$s</span><span class=\"byline\"> <i>by</i> %2$s</"
+"span>"
+msgstr ""
+
+#: inc/template-tags.php:203 inc/template-tags.php:204
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:208
+#, fuzzy
+msgid "Category: "
+msgstr "Категория %s"
+
+#: inc/template-tags.php:213 template-parts/header.php:20
+msgid "Tag: "
+msgstr ""
+
+#: inc/template-tags.php:466
+#, php-format
+msgid "Powered by %s"
+msgstr "Работает на %s"
+
+#: inc/template-tags.php:468
+#, php-format
+msgid "Theme by %s"
+msgstr "Тема от %s"
+
+#: inc/welcome.php:36
+msgid "Welcome!"
+msgstr ""
+
+#: inc/welcome.php:66
+#, fuzzy
+msgid "Theme"
+msgstr "Тема от %s"
+
+#: inc/welcome.php:67
+msgid "Thank you for choosing Squarex WordPress theme for your website!"
+msgstr ""
+
+#: inc/welcome.php:72
+msgid "Welcome to"
+msgstr ""
+
+#: inc/welcome.php:75
+msgid "Here are some links to get you started and optional theme-setup tasks:"
+msgstr ""
+
+#: inc/welcome.php:82
+msgid "Get Started"
+msgstr ""
+
+#: inc/welcome.php:89 inc/welcome.php:97
+msgid "Set your Front page, go to"
+msgstr ""
+
+#: inc/welcome.php:89 inc/welcome.php:93 inc/welcome.php:97
+msgid "Front page displays"
+msgstr ""
+
+#: inc/welcome.php:93
+msgid "Set you Posts page, go to"
+msgstr ""
+
+#: inc/welcome.php:101
+msgid "To select page as Front page you will need to create a new page, go to "
+msgstr ""
+
+#: inc/welcome.php:101
+msgid "Add New Page"
+msgstr ""
+
+#: inc/welcome.php:105
+msgid "Set you "
+msgstr ""
+
+#: inc/welcome.php:105
+#, fuzzy
+msgid "main Menu"
+msgstr "Основное меню"
+
+#: inc/welcome.php:108 inc/welcome.php:111
+msgid "Get Support"
+msgstr ""
+
+#: inc/welcome.php:110
+msgid ""
+"Our support for users of our premium themes is available 24/7. Just send us "
+"your questions."
+msgstr ""
+
+#: inc/welcome.php:117
+msgid "Next Steps"
+msgstr ""
+
+#: inc/welcome.php:119
+msgid "Squarex includes a custom widgets is marked Squarex, go to "
+msgstr ""
+
+#: inc/welcome.php:119
+msgid "Manage widgets"
+msgstr ""
+
+#: inc/welcome.php:123
+msgid "Using the WordPress Customizer you can tweak appearance."
+msgstr ""
+
+#: inc/welcome.php:131
+msgid "Plugins"
+msgstr ""
+
+#: inc/welcome.php:134
+msgid "Extend the functionality of the theme using free plugins, go to "
+msgstr ""
+
+#: inc/welcome.php:134
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/welcome.php:136
+msgid ""
+"Below you will find links to plugins we recommend. None of these plugins are "
+"required for theme to work, they add additional functionality."
+msgstr ""
+
+#: inc/customizer/settings/color.php:136
+msgid "Main Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/settings/color.php:148
+msgid "Secondary Color"
+msgstr "Второй цвет"
+
+#: inc/customizer/settings/color.php:160
+#, fuzzy
+msgid "Header BG Color"
+msgstr "Фоновый цвет"
+
+#: inc/customizer/settings/color.php:172
+#, fuzzy
+msgid "Link Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/settings/color.php:184
+#, fuzzy
+msgid "Hover Color"
+msgstr "Цвет меню"
+
+#: inc/customizer/settings/color.php:196
+#, fuzzy
+msgid "Hover Menu"
+msgstr "Основное меню"
+
+#: inc/customizer/settings/color.php:208
+#, fuzzy
+msgid "Menu Bar Color"
+msgstr "Цвет меню"
+
+#: inc/customizer/settings/color.php:220
+msgid "Menu Bar Current"
+msgstr ""
+
+#: inc/customizer/settings/color.php:232
+msgid "Menu Link"
+msgstr ""
+
+#: inc/customizer/settings/color.php:244
+msgid "Menu Link Hover"
+msgstr ""
+
+#: inc/customizer/settings/color.php:256
+msgid "Border Bold"
+msgstr ""
+
+#: inc/customizer/settings/color.php:268
+msgid "Border Thin"
+msgstr ""
+
+#: inc/customizer/settings/color.php:280
+msgid "Additional Color"
+msgstr "Дополнительный цвет"
+
+#: inc/customizer/settings/color.php:292
+#, fuzzy
+msgid "Footer Text"
+msgstr "Меню в подвале"
+
+#: inc/customizer/settings/color.php:304
+#, fuzzy
+msgid "Footer BG"
+msgstr "Футер1"
+
+#: inc/customizer/settings/frontpage.php:13
+msgid "Front Page Options"
+msgstr ""
+
+#: inc/customizer/settings/frontpage.php:14
+msgid "Works only for Front Page template."
+msgstr ""
+
+#: inc/customizer/settings/frontpage.php:34
+#, fuzzy
+msgid "Page Header"
+msgstr "Колонка страниц"
+
+#: inc/customizer/settings/frontpage.php:35
+msgid "Check the box to show page header."
+msgstr ""
+
+#: inc/customizer/settings/frontpage.php:43
+msgid "Slider Sticky Posts"
+msgstr ""
+
+#: inc/customizer/settings/frontpage.php:44
+msgid "Check the box to show slider sticky posts."
+msgstr ""
+
+#: inc/customizer/settings/frontpage.php:59
+msgid "Number Posts on Front page"
+msgstr ""
+
+#: inc/customizer/settings/general.php:13
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/settings/general.php:30
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/settings/general.php:40
+msgid "Display Options"
+msgstr ""
+
+#: inc/customizer/settings/general.php:54
+msgid "Transparent menu bar"
+msgstr ""
+
+#: inc/customizer/settings/general.php:68
+msgid "No border menu bar"
+msgstr ""
+
+#: inc/customizer/settings/general.php:82
+msgid "Hide page header"
+msgstr ""
+
+#: inc/customizer/settings/general.php:96
+msgid "Hide Submenu pages"
+msgstr ""
+
+#: inc/customizer/settings/general.php:110
+#, fuzzy
+msgid "Numbered navigation"
+msgstr "навигация по комментариям"
+
+#: inc/customizer/settings/general.php:124
+msgid "Disable lightbox image"
+msgstr ""
+
+#: inc/customizer/settings/hero.php:13
+msgid "Home Tagline"
+msgstr ""
+
+#: inc/customizer/settings/hero.php:14
+msgid ""
+"Headlines area for the Homepage. Tagline Text field to type text or paste "
+"shortcode. Clear this field to not show Home Tagline."
+msgstr ""
+
+#: inc/customizer/settings/hero.php:45
+msgid "Tagline Text"
+msgstr ""
+
+#: inc/customizer/settings/hero.php:56
+#, fuzzy
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+#: inc/customizer/settings/hero.php:64
+#, fuzzy
+msgid "Background Image"
+msgstr "Фоновый цвет"
+
+#: inc/customizer/settings/logo.php:13
+msgid "Logo Options"
+msgstr ""
+
+#: inc/customizer/settings/logo.php:14
+msgid ""
+"For the option of a round frame best suited a image square size is 400px and "
+"more."
+msgstr ""
+
+#: inc/customizer/settings/logo.php:29
+msgid "No Frame logo"
+msgstr ""
+
+#: inc/customizer/settings/logo.php:42
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer/settings/posts.php:13
+#, fuzzy
+msgid "Post Options"
+msgstr "Навигация"
+
+#: inc/customizer/settings/posts.php:29
+#, fuzzy
+msgid "Blog Title"
+msgstr "Колонка записей"
+
+#: inc/customizer/settings/posts.php:45
+msgid "Disable meta info on top"
+msgstr ""
+
+#: inc/customizer/settings/posts.php:61
+msgid "Disable meta info on bottom"
+msgstr ""
+
+#: inc/widgets/widget-callact.php:22
+msgid "Call-To-Action"
+msgstr ""
+
+#: inc/widgets/widget-callact.php:25
+#, fuzzy
+msgid "Text over a background color with button."
+msgstr "Фоновый цвет"
+
+#: inc/widgets/widget-callact.php:53
+msgid "Main Text:"
+msgstr ""
+
+#: inc/widgets/widget-callact.php:58
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/widget-callact.php:63
+msgid "Button Link:"
+msgstr ""
+
+#: inc/widgets/widget-callact.php:69
+#, fuzzy
+msgid "Background Color:"
+msgstr "Фоновый цвет"
+
+#: inc/widgets/widget-callact.php:76
+#, fuzzy
+msgid "Color Text:"
+msgstr "Основной цвет"
+
+#: inc/widgets/widget-callact.php:83
+msgid "Color Button:"
+msgstr ""
+
+#: inc/widgets/widget-imagetext.php:12
+msgid "Image & Text"
+msgstr ""
+
+#: inc/widgets/widget-imagetext.php:15
+msgid "The image with the title and text."
+msgstr ""
+
+#: inc/widgets/widget-imagetext.php:84
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-imagetext.php:88
+#, fuzzy
+msgid "Image:"
+msgstr "Страницы"
+
+#: inc/widgets/widget-imagetext.php:90
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/widget-imagetext.php:90
+msgid "Remove Image"
+msgstr ""
+
+#: inc/widgets/widget-imagetext.php:94
+msgid "URL:"
+msgstr ""
+
+#: inc/widgets/widget-imagetext.php:100
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: inc/widgets/widget-pagefeature.php:12
+msgid "Squarex Featured Page"
+msgstr ""
+
+#: inc/widgets/widget-pagefeature.php:15
+msgid "Display a featured page header."
+msgstr ""
+
+#: inc/widgets/widget-pagefeature.php:73
+msgid "Featured Page"
+msgstr ""
+
+#: inc/widgets/widget-pagefeature.php:81
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-pagefeature.php:86
+#, fuzzy
+msgid "Page:"
+msgstr "Страницы"
+
+#: template-parts/header.php:25
+#, fuzzy, php-format
+msgid "Author: %s"
+msgstr "Автор %s"
+
+#: template-parts/header.php:29
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: template-parts/header.php:32
+#, fuzzy, php-format
+msgid "Month: %s"
+msgstr "По месяцам %s"
+
+#: template-parts/header.php:35
+#, fuzzy, php-format
+msgid "Year: %s"
+msgstr "По годам %s"
+
+#: template-parts/header.php:38
+msgid "Asides"
+msgstr ""
+
+#: template-parts/header.php:41
+#, fuzzy
+msgid "Images"
+msgstr "Страницы"
+
+#: template-parts/header.php:44
+msgid "Videos"
+msgstr ""
+
+#: template-parts/header.php:47
+msgid "Quotes"
+msgstr ""
+
+#: template-parts/header.php:50
+msgid "Links"
+msgstr ""
+
+#: template-parts/header.php:53
+#, fuzzy
+msgid "Search Results for:"
+msgstr "Результаты поиска: %s"
+
+#: template-parts/header.php:56
+msgid "Error 404: Not Found"
+msgstr ""
+
+#: template-parts/header.php:58
+#, fuzzy
+msgid "Archive"
+msgstr "Архив"
+
+#: template-parts/header.php:75
+#, php-format
+msgid "%s"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Icon Color:"
+#~ msgstr "Фоновый цвет"
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try one of the "
+#~ "links below or a search?"
+#~ msgstr "Ничего не найдено. Попробуйте ссылки или другой запрос поиска."
+
+#~ msgid "Comments are closed."
+#~ msgstr "Комментирование закрыто."
+
+#, fuzzy
+#~ msgid "Published by "
+#~ msgstr "Опубликовал "
+
+#, fuzzy
+#~ msgid "in %1$s."
+#~ msgstr "В рубрике %1$s."
+
+#, fuzzy
+#~ msgid "in %1$s"
+#~ msgstr "В рубрике %1$s."
+
+#, fuzzy
+#~ msgid "Located in the sidebar Project"
+#~ msgstr "Размещается справа в футере."
+
+#~ msgid "Archive sidebar."
+#~ msgstr "Колонка Архива"
+
+#, fuzzy
+#~ msgid "Social Icons Menu"
+#~ msgstr "Соцмедиа меню"
+
+#, fuzzy
+#~ msgid "Top Bar Background Color"
+#~ msgstr "Фоновый цвет"
+
+#, fuzzy
+#~ msgid "Footer Background Color"
+#~ msgstr "Фоновый цвет"
+
+#, fuzzy
+#~ msgid "Top Menu Color"
+#~ msgstr "Цвет меню"
+
+#, fuzzy
+#~ msgid "Sub Menu Color"
+#~ msgstr "Цвет меню"
+
+#, fuzzy
+#~ msgid "Right aligned sidebar"
+#~ msgstr "Колонка страниц"
+
+#~ msgid "Page %s"
+#~ msgstr "Стр. %s"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "All posts by %s"
+#~ msgstr "Все записи %s"
+
+#~ msgid "Category %s"
+#~ msgstr "Категория %s"
+
+#~ msgid "Tag %s"
+#~ msgstr "Тэг %s"
+
+#, fuzzy
+#~ msgid "Day %s"
+#~ msgstr "По дням %s"
+
+#, fuzzy
+#~ msgid "Located in the footer of the page."
+#~ msgstr "Размещается слева в футере."
+
+#, fuzzy
+#~ msgid "Edit %s"
+#~ msgstr "Редактировать"
+
+#, fuzzy
+#~ msgid "Search %a"
+#~ msgstr "Поиск"
+
+#, fuzzy
+#~ msgid "No %s Found"
+#~ msgstr "Ничего не найдено"
+
+#, fuzzy
+#~ msgid "MWP-Author Box"
+#~ msgstr "Автор"
+
+#, fuzzy
+#~ msgid "View all posts by %s"
+#~ msgstr "Все записи %s"
+
+#, fuzzy
+#~ msgid "Author info"
+#~ msgstr "Автор"
+
+#~ msgid "Categories"
+#~ msgstr "Категории"
+
+#~ msgid "Archivee Sidebar"
+#~ msgstr "Колонка Архива"
+
+#~ msgid "Top Left"
+#~ msgstr "Слева вверху"
+
+#~ msgid "Located in the footer center of the page."
+#~ msgstr "Размещается по центру футера."
+
+#~ msgid "Pages and posts have different sidebar."
+#~ msgstr "Страницы и записи имеют разные колонки."
+
+#~ msgid "<p>TAGS<br />%2$s.</p>"
+#~ msgstr "<p>МЕТКИ %2$s.</p>"
+
+#~ msgid "Meta"
+#~ msgstr "Мета"
+
+#~ msgctxt "assistive text"
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Posted in %1$s and tagged %2$s."
+#~ msgstr "В рубрике %1$s и тэги %2$s."

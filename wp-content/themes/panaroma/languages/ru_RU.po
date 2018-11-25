@@ -1,0 +1,824 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Panaroma v10.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-25 20:23+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ panaroma
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Эта страница не найдена."
+
+# @ panaroma
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже ничего не найдено. Попробуйте одну из ссылок ниже или воспользуйтесь поиском."
+
+# @ panaroma
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Популярные разделы"
+
+# @ panaroma
+#. translators: %1$s: smiley
+#: 404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте посмотреть в ежемесячных архивах. %1$s"
+
+# @ panaroma
+#: archive.php:28
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ panaroma
+#: archive.php:31
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ panaroma
+#: archive.php:34
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+# @ panaroma
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ panaroma
+#: archive.php:37
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ panaroma
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ panaroma
+#: archive.php:40
+msgid "Asides"
+msgstr "Заметки"
+
+# @ panaroma
+#: archive.php:43
+msgid "Galleries"
+msgstr "Галереи"
+
+# @ panaroma
+#: archive.php:46
+msgid "Images"
+msgstr "Изображения"
+
+# @ panaroma
+#: archive.php:49
+msgid "Videos"
+msgstr "Видео"
+
+# @ panaroma
+#: archive.php:52
+msgid "Quotes"
+msgstr "Цитаты"
+
+# @ panaroma
+#: archive.php:55
+msgid "Links"
+msgstr "Ссылки"
+
+# @ panaroma
+#: archive.php:58
+msgid "Statuses"
+msgstr "Статусы"
+
+# @ panaroma
+#: archive.php:61
+msgid "Audios"
+msgstr "Аудио"
+
+# @ panaroma
+#: archive.php:64
+msgid "Chats"
+msgstr "Чаты"
+
+# @ panaroma
+#: archive.php:67 sidebar.php:12
+msgid "Archives"
+msgstr "Архивы"
+
+# @ panaroma
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ panaroma
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ panaroma
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+# @ panaroma
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+# @ panaroma
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии отключены"
+
+# @ panaroma
+#: content-page.php:18 content-single.php:22 content.php:30 image.php:58
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ panaroma
+#: content-page.php:23 content-single.php:28 content.php:64 image.php:32
+#: image.php:64 inc/template-tags.php:71 inc/template-tags.php:90
+msgid "Edit"
+msgstr "Изменить"
+
+# @ panaroma
+#: content.php:23
+msgid "Read More..."
+msgstr "Подробнее..."
+
+# @ panaroma
+#: content.php:27
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+# @ panaroma
+#. translators: used between list items, there is a space after the comma
+#: content.php:41 content.php:51
+msgid ", "
+msgstr ""
+
+# @ panaroma
+#: content.php:45
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Категории: %1$s"
+
+# @ panaroma
+#: content.php:55
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+# @ panaroma
+#: content.php:61
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ panaroma
+#: content.php:61
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ panaroma
+#: content.php:61
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ panaroma
+#: footer.php:15
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ panaroma
+#: footer.php:18
+msgid "Useful Links"
+msgstr "Полезные ссылки"
+
+# @ panaroma
+#: footer.php:21
+msgid "Follow Us"
+msgstr ""
+
+# @ panaroma
+#: footer.php:37
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+# @ panaroma
+#: footer.php:42 options.php:312
+msgid "Phone"
+msgstr "Телефон"
+
+# @ panaroma
+#: footer.php:45 options.php:318
+msgid "Email"
+msgstr ""
+
+# @ panaroma
+#: functions.php:31
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ panaroma
+#: functions.php:34
+msgid "Useful links"
+msgstr "Полезные ссылки"
+
+# @ panaroma
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "Сайдбар блога"
+
+# @ panaroma
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+# @ panaroma
+#: functions.php:72
+msgctxt "Roboto Condensed: on or off"
+msgid "on"
+msgstr ""
+
+# @ panaroma
+#: functions.php:77
+msgctxt "Roboto : on or off"
+msgid "on"
+msgstr ""
+
+# @ panaroma
+#: header.php:32
+msgid "Go to Appearance >> Theme Options >> Restore Defaults"
+msgstr ""
+
+# @ panaroma
+#: header.php:35
+msgid "Reset Theme Options"
+msgstr ""
+
+# @ panaroma
+#: header.php:83
+msgid "Menu"
+msgstr "﻿Меню"
+
+# @ panaroma
+#: header.php:84
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ panaroma
+#: image.php:22
+#, php-format
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+# @ panaroma
+#: image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+# @ panaroma
+#: image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Вперед <span class=\"meta-nav\">&rarr;</span>"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:85
+#: inc/includes/class-options-framework-admin.php:86
+msgid "Theme Options"
+msgstr "Настройки Темы"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:188 options.php:334
+msgid "Buy PRO version for only $30 with more features."
+msgstr ""
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:199
+msgid "Save Options"
+msgstr "Сохранить настройки"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:200
+msgid "Restore Defaults"
+msgstr "По умолчанию"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:200
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Нажмите кнопку OK, чтобы сбросить. Все ваши настройки для темы будут потеряны!"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:220
+msgid "Documentation"
+msgstr "Документация"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:222
+msgid "For documentation and support check this link"
+msgstr "Для документации и поддержки проверить эту ссылку"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:254
+msgid "Default options restored."
+msgstr "Настройки темы по умолчанию"
+
+# @ panaroma
+#: inc/includes/class-options-framework-admin.php:308
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+# @ panaroma
+#: inc/includes/class-options-media-uploader.php:55
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+# @ panaroma
+#: inc/includes/class-options-media-uploader.php:58
+#: inc/includes/class-options-media-uploader.php:111
+msgid "Upload"
+msgstr "Закачать"
+
+# @ panaroma
+#: inc/includes/class-options-media-uploader.php:60
+#: inc/includes/class-options-media-uploader.php:112
+msgid "Remove"
+msgstr "Удалить"
+
+# @ panaroma
+#: inc/includes/class-options-media-uploader.php:63
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Пожалуйста, обновите версию WordPress для полной поддержки всех возможностей."
+
+# @ panaroma
+#: inc/includes/class-options-media-uploader.php:87
+msgid "View File"
+msgstr "Посмотреть файл"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:311
+msgid "No Repeat"
+msgstr "Не выбрано"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:312
+msgid "Repeat Horizontally"
+msgstr "Повторить по горизонтали"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:313
+msgid "Repeat Vertically"
+msgstr "﻿Повторить по вертикали"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:314
+msgid "Repeat All"
+msgstr "Повторять всё"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:326
+msgid "Top Left"
+msgstr "Сверху слева"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:327
+msgid "Top Center"
+msgstr "Сверху по центру"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:328
+msgid "Top Right"
+msgstr "Сверху справа"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:329
+msgid "Middle Left"
+msgstr "Посередине слева"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:330
+msgid "Middle Center"
+msgstr "По середине по центру"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:331
+msgid "Middle Right"
+msgstr "По середине справа"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:332
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:333
+msgid "Bottom Center"
+msgstr "Снизу по центру"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:334
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:346
+msgid "Scroll Normally"
+msgstr "Обычная прокрутка"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:347
+msgid "Fixed in Place"
+msgstr "Исправить на месте"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:419
+msgid "Normal"
+msgstr "Нормальный"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:420
+msgid "Italic"
+msgstr "Курсив"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:421
+msgid "Bold"
+msgstr "Жирный"
+
+# @ panaroma
+#: inc/includes/class-options-sanitize.php:422
+msgid "Bold Italic"
+msgstr "Жирный Курсив"
+
+# @ panaroma
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+# @ panaroma
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+# @ panaroma
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+# @ panaroma
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+# @ panaroma
+#: inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Вперед <span class=\"meta-nav\">&rarr;</span>"
+
+# @ panaroma
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+# @ panaroma
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+# @ panaroma
+#: inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации"
+
+# @ panaroma
+#: inc/template-tags.php:185
+#, php-format
+msgid "<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Опубликовано %1$s</span><span class=\"byline\"> %2$s</span>"
+
+# @ panaroma
+#: index.php:21
+msgid "Blog"
+msgstr "Блог"
+
+# @ panaroma
+#: index.php:52
+msgid "Panaroma Theme by"
+msgstr ""
+
+# @ panaroma
+#: index.php:52
+msgid "SKT Themes"
+msgstr ""
+
+# @ panaroma
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ panaroma
+#: no-results.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы создать свою первую запись? <a href=\"%1$s\">Начните сейчас</a>."
+
+# @ panaroma
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по заданным условиям поиска ничего не найдено. Попробуйте поиск по другим ключевым словам."
+
+# @ panaroma
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+# @ panaroma
+#: options.php:31
+msgid "Basic Settings"
+msgstr "Базовые настройки"
+
+# @ panaroma
+#: options.php:35
+msgid "Logo"
+msgstr "Логотип"
+
+# @ panaroma
+#: options.php:36
+msgid "Upload your logo here"
+msgstr "﻿Загрузите свой логотип здесь."
+
+# @ panaroma
+#: options.php:43
+msgid "Copyright Text"
+msgstr "Текст копирайта"
+
+# @ panaroma
+#: options.php:44
+msgid "Some Text regarding copyright of your site, you would like to display in the footer."
+msgstr ""
+
+# @ panaroma
+#: options.php:50
+msgid "Featured image as background"
+msgstr ""
+
+# @ panaroma
+#: options.php:51
+msgid "Do not use featured image as background image."
+msgstr ""
+
+# @ panaroma
+#: options.php:57
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+# @ panaroma
+#: options.php:58
+msgid "Select the color scheme for theme"
+msgstr ""
+
+# @ panaroma
+#: options.php:65
+msgid "Pagination Gradient Color - Top"
+msgstr ""
+
+# @ panaroma
+#: options.php:66
+msgid "Select the top gradient color for pagination links"
+msgstr ""
+
+# @ panaroma
+#: options.php:72
+msgid "Pagination Gradient Color - Bottom"
+msgstr ""
+
+# @ panaroma
+#: options.php:73
+msgid "Select the bottom gradient color for pagination links"
+msgstr ""
+
+# @ panaroma
+#: options.php:81
+msgid "Layout Settings"
+msgstr "Расположение"
+
+# @ panaroma
+#: options.php:96
+msgid "Custom CSS"
+msgstr ""
+
+# @ panaroma
+#: options.php:97
+msgid "Some Custom Styling for your site. Place any css codes here instead of the style.css file."
+msgstr ""
+
+# @ panorama-pro
+#: options.php:104
+msgid "Homepage Slider"
+msgstr "Слайдер домашней страницы"
+
+# @ panorama
+#: options.php:108
+msgid "Slider Image 1"
+msgstr ""
+
+# @ panorama
+#: options.php:109
+msgid "First Slide"
+msgstr ""
+
+# @ panorama
+#: options.php:116 options.php:143 options.php:170 options.php:197
+#: options.php:224
+msgid "Title"
+msgstr "Название"
+
+# @ panorama
+#: options.php:122 options.php:149 options.php:176 options.php:203
+#: options.php:230
+msgid "Description or Tagline"
+msgstr ""
+
+# @ panorama
+#: options.php:128 options.php:155 options.php:182 options.php:209
+#: options.php:236
+msgid "Url"
+msgstr "URL"
+
+# @ panorama
+#: options.php:135
+msgid "Slider Image 2"
+msgstr ""
+
+# @ panorama
+#: options.php:136
+msgid "Second Slide"
+msgstr ""
+
+# @ panorama
+#: options.php:162
+msgid "Slider Image 3"
+msgstr ""
+
+# @ panorama
+#: options.php:163
+msgid "Third Slide"
+msgstr ""
+
+# @ panorama
+#: options.php:189
+msgid "Slider Image 4"
+msgstr ""
+
+# @ panorama
+#: options.php:190
+msgid "Fourth Slide"
+msgstr ""
+
+# @ panorama
+#: options.php:216
+msgid "Slider Image 5"
+msgstr ""
+
+# @ panorama
+#: options.php:217
+msgid "Fifth Slide"
+msgstr ""
+
+# @ panaroma
+#: options.php:245
+msgid "Social Settings"
+msgstr "Настройки социальных сетей"
+
+# @ panaroma
+#: options.php:249
+msgid "Please set the value of following fields, as per the instructions given along. If you do not want to use an icon, just leave it blank. If some icons are showing up, even when no value is set then make sure they are completely blank, and just save the options once. They will not be shown anymore."
+msgstr ""
+
+# @ panaroma
+#: options.php:253
+msgid "Facebook"
+msgstr ""
+
+# @ panaroma
+#: options.php:254
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr ""
+
+# @ panaroma
+#: options.php:262
+msgid "Twitter"
+msgstr ""
+
+# @ panaroma
+#: options.php:263
+msgid "Twitter Username"
+msgstr ""
+
+# @ panaroma
+#: options.php:270
+msgid "Google Plus"
+msgstr ""
+
+# @ panaroma
+#: options.php:271
+msgid "Google Plus profile url, including \"http://\""
+msgstr ""
+
+# @ panaroma
+#: options.php:279
+msgid "Linkedin"
+msgstr ""
+
+# @ panaroma
+#: options.php:280
+msgid "Linkedin URL"
+msgstr ""
+
+# @ panaroma
+#: options.php:290
+msgid "Contact Details for footer"
+msgstr ""
+
+# @ panaroma
+#: options.php:294
+msgid "Company Name"
+msgstr ""
+
+# @ panaroma
+#: options.php:300
+msgid "Address 1"
+msgstr ""
+
+# @ panaroma
+#: options.php:306
+msgid "Address 2"
+msgstr ""
+
+# @ panaroma
+#: options.php:326
+msgid "Our Themes"
+msgstr ""
+
+# @ panaroma
+#: options.php:330
+msgid "Panaroma WordPress theme has been Designed and Created by SKT Themes."
+msgstr ""
+
+# @ panaroma
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ panaroma
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для:"
+
+# @ panaroma
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+# @ panaroma
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+# @ panaroma
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""

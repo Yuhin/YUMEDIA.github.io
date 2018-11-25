@@ -1,0 +1,803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fortunato v1.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-17 10:15+0300\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ fortunato
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Эта страница не может быть найдена."
+
+# @ fortunato
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже ничего не найдено. Попробуйте одну из ссылок ниже или воспользуйтесь поиском."
+
+# @ fortunato
+#. translators: %1$s: smiley
+#: 404.php:27
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Архив за месяц: %1$s"
+
+# @ fortunato
+#: archive.php:41 index.php:38 search.php:37
+msgid "<i class=\"fa fa-angle-double-left spaceRight\"></i>Previous"
+msgstr "<i class=\"fa fa-angle-double-left spaceRight\"></i>Назад"
+
+# @ fortunato
+#: archive.php:42 index.php:39 search.php:38
+msgid "Next<i class=\"fa fa-angle-double-right spaceLeft\"></i>"
+msgstr "Вперед<i class=\"fa fa-angle-double-right spaceLeft\"></i>"
+
+# @ fortunato
+#: archive.php:43 content-single.php:24 index.php:40 search.php:39
+msgid "Page"
+msgstr "Страница"
+
+# @ fortunato
+#: comments.php:27
+msgid "No comments"
+msgstr "Комментариев нет"
+
+# @ fortunato
+#: comments.php:27
+msgid "1 comment"
+msgstr "Один комментарий"
+
+# @ fortunato
+#: comments.php:27
+msgid "% comments"
+msgstr "Комментариев: %"
+
+# @ fortunato
+#: comments.php:36
+msgid "Reply"
+msgstr "Ответить"
+
+# @ fortunato
+#: comments.php:49
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ fortunato
+#: comments.php:58
+msgid "Name *"
+msgstr "Имя *"
+
+# @ fortunato
+#: comments.php:59
+msgid "Email *"
+msgstr "Почта *"
+
+# @ fortunato
+#: comments.php:60
+msgid "Website *"
+msgstr "﻿Сайт *"
+
+# @ fortunato
+#: comments.php:60
+msgid "Website"
+msgstr "Сайт"
+
+# @ fortunato
+#: comments.php:62
+msgid " Required fields are marked "
+msgstr "Обязательные поля помечены"
+
+# @ fortunato
+#: comments.php:66
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=“%s”>войти</a> чтобы оставить комментарий."
+
+# @ fortunato
+#: comments.php:67
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Вы вошли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Выйти из этой учетной записи\">Выйти?</a>"
+
+# @ fortunato
+#: comments.php:68
+msgid "Your email address will not be published."
+msgstr "Email не будет опубликован"
+
+# @ fortunato
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+# @ fortunato
+#: comments.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Ответить на %s"
+
+# @ fortunato
+#: comments.php:71
+msgid "Cancel reply"
+msgstr "Отменить"
+
+# @ fortunato
+#: comments.php:72
+msgid "Post Comment"
+msgstr "Опубликовать"
+
+# @ fortunato
+#: comments.php:73
+msgid "Comment *"
+msgstr "Комментарий *"
+
+# @ fortunato
+#: comments.php:74
+#, php-format
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "﻿Вы можете использовать <abbr title=\\\"HyperTextMarkup Language\\\">HTML</abbr> теги и атрибуты: %s"
+
+# @ fortunato
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ fortunato
+#: content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою запись? <a href=\"%1$s\">Начните сейчас</a>"
+
+# @ fortunato
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ fortunato
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Нам не удалось найти то, что вы ищите. Попробуйте воспользоваться поиском."
+
+# @ fortunato
+#: content-page.php:18 content-single.php:20
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ fortunato
+#: content-page.php:27 content.php:25 inc/template-tags.php:143
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ fortunato
+#: content.php:23
+msgid "Read More"
+msgstr "Читать дальше"
+
+# @ fortunato
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
+
+# @ fortunato
+#: footer.php:15
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+# @ fortunato
+#: footer.php:17
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+# @ fortunato
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ fortunato
+#: functions.php:84
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+# @ fortunato
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+# @ fortunato
+#: header.php:39
+msgid "Facebook"
+msgstr ""
+
+# @ fortunato
+#: header.php:43
+msgid "Twitter"
+msgstr ""
+
+# @ fortunato
+#: header.php:47
+msgid "Google Plus"
+msgstr ""
+
+# @ fortunato
+#: header.php:51
+msgid "Linkedin"
+msgstr ""
+
+# @ fortunato
+#: header.php:55
+msgid "Instagram"
+msgstr ""
+
+# @ fortunato
+#: header.php:59
+msgid "YouTube"
+msgstr ""
+
+# @ fortunato
+#: header.php:63
+msgid "Pinterest"
+msgstr ""
+
+# @ fortunato
+#: header.php:67
+msgid "Tumblr"
+msgstr ""
+
+# @ fortunato
+#: header.php:71
+msgid "VK"
+msgstr ""
+
+# @ fortunato
+#: header.php:86
+msgid "Search for:"
+msgstr "Поиск:"
+
+# @ fortunato
+#: header.php:87
+msgid "Type here and hit enter..."
+msgstr "Введите фразу и нажмите Enter..."
+
+# @ fortunato
+#: header.php:90
+msgid "Close"
+msgstr "Закрыть"
+
+# @ fortunato
+#: header.php:109
+msgid "Main Menu"
+msgstr "Главное меню"
+
+# @ fortunato
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ fortunato
+#: inc/fortunato-dynamic.php:33
+msgid "Background Color"
+msgstr "Цвет фона"
+
+# @ fortunato
+#: inc/fortunato-dynamic.php:39
+msgid "Text Color"
+msgstr "Цвет текста"
+
+# @ fortunato
+#: inc/fortunato-dynamic.php:45
+msgid "Secondary Text Color"
+msgstr "Вторичный цвет текста"
+
+# @ fortunato
+#: inc/fortunato-dynamic.php:51
+msgid "Special Color"
+msgstr "Специальный цвет"
+
+# @ fortunato
+#: inc/template-tags.php:19
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ fortunato
+#: inc/template-tags.php:22
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+# @ fortunato
+#: inc/template-tags.php:26
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ fortunato
+#: inc/template-tags.php:50
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+# @ fortunato
+#: inc/template-tags.php:54
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+# @ fortunato
+#: inc/template-tags.php:58
+msgid "Newer posts"
+msgstr "Новые записи"
+
+# @ fortunato
+#: inc/template-tags.php:83
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+# @ fortunato
+#: inc/template-tags.php:86 single.php:22
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+# @ fortunato
+#: inc/template-tags.php:86
+msgid "Previous post link"
+msgstr "Предыдущая запись"
+
+# @ fortunato
+#: inc/template-tags.php:87 single.php:19
+msgid "Next Post"
+msgstr "Следующая запись"
+
+# @ fortunato
+#: inc/template-tags.php:87
+msgid "Next Post link"
+msgstr "Следующая запись"
+
+# @ fortunato
+#: inc/template-tags.php:113
+#, php-format
+msgctxt "post date"
+msgid "<i class=\"fa fa-clock-o spaceRight\"></i>%s"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:118
+#, php-format
+msgctxt "post author"
+msgid "<i class=\"fa fa-user spaceLeftRight\"></i>%s"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:126
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ fortunato
+#: inc/template-tags.php:126
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+# @ fortunato
+#: inc/template-tags.php:126
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+# @ fortunato
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:137
+msgid ", "
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:139
+#, php-format
+msgid "<i class=\"fa fa-tags spaceRight\"></i>%1$s"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:152
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:171
+#, php-format
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+# @ fortunato
+#: inc/template-tags.php:173
+#, php-format
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+# @ fortunato
+#: inc/template-tags.php:175
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ fortunato
+#: inc/template-tags.php:177
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ fortunato
+#: inc/template-tags.php:177
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:179
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+# @ fortunato
+#: inc/template-tags.php:179
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:181
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ fortunato
+#: inc/template-tags.php:181
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:186
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:188
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:190
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:192
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:194
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:196
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:198
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:200
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:203
+#, php-format
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+# @ fortunato
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:207
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+# @ fortunato
+#: inc/template-tags.php:209
+msgid "Archives"
+msgstr "Архивы"
+
+# @ fortunato
+#: inc/theme-options.php:23 inc/theme-options.php:47
+msgid "Fortunato Theme Options"
+msgstr "Настройки темы"
+
+# @ fortunato
+#: inc/theme-options.php:60
+msgid " Free Theme Options"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:63
+msgid "Need more features and options? Upgrade to PRO!"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:64
+msgid "Get"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:64
+msgid "Fortunato PRO"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:64
+msgid "WordPress Theme for only"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:66
+msgid "Demo (Fortunato PRO)"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:68
+msgid "Get The Pro Version"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:72
+msgid "Advanced Theme Options"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:72
+msgid "(Manage Loading Page, Additional Custom Code, Font switcher and much more...)"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:73
+msgid "Logo Upload"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:74
+msgid "Unlimited Colors and Skin"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:75
+msgid "Choose header height (100% - 75% - 50%)"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:76
+msgid "Breadcrumb"
+msgstr "Хлебные крошки"
+
+# @ fortunato
+#: inc/theme-options.php:77
+msgid "8 Shortcodes"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:77
+msgid "(Parallax Image, Toggle, Tabs, Boxes, Columns, Highlights, Buttons and Drop Cap)"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:78
+msgid "11 Exclusive Widgets"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:78
+msgid "(Latest Tweet, Instagram, Social Buttons, Recent Posts with Thumbnail and Most Commented Posts...)"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:79
+msgid "Related Posts Box"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:80
+msgid "Information About Author Box"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:81
+msgid "Advertising System"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:82
+msgid "Custom image for 404 page and search page"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:83
+msgid "And much more..."
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:88
+msgid "These options will let you setup the the social icons at the top of the theme, the main image and choose whether to show the search button."
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:90
+msgid "Options saved"
+msgstr "Настройки сохранены"
+
+# @ fortunato
+#: inc/theme-options.php:105
+msgid "Hide Search Button?"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:108
+msgid "Check it if you want to hide the Search button"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:117
+msgid "Hide Overlay on main image?"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:120
+msgid "Check it if you want to hide the overlay on main image"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:129
+msgid "Enter your Facebook URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:132
+msgid "Leave blank to hide Facebook Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:141
+msgid "Enter your Twitter URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:144
+msgid "Leave blank to hide Twitter Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:153
+msgid "Enter your Google + URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:156
+msgid "Leave blank to hide Google + Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:165
+msgid "Enter your Linkedin URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:168
+msgid "Leave blank to hide Linkedin Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:177
+msgid "Enter your Instagram URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:180
+msgid "Leave blank to hide Instagram Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:189
+msgid "Enter your YouTube URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:192
+msgid "Leave blank to hide YouTube Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:201
+msgid "Enter your Pinterest URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:204
+msgid "Leave blank to hide Pinterest Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:213
+msgid "Enter your Tumblr URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:216
+msgid "Leave blank to hide Tumblr Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:225
+msgid "Enter your VK URL"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:228
+msgid "Leave blank to hide VK Icon"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:237
+msgid "Colors and Main Image"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:239
+msgid "Click here to customize colors and main image"
+msgstr ""
+
+# @ fortunato
+#: inc/theme-options.php:246
+msgid "Save Options"
+msgstr "Сохранить настройки"
+
+# @ fortunato
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ fortunato
+#: single.php:20
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+# @ fortunato
+#: single.php:23
+msgid "Previous post:"
+msgstr "Предыдущая запись:"

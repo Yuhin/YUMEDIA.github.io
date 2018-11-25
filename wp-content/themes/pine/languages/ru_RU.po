@@ -1,0 +1,625 @@
+# Translation of Themes - Pine in Russian
+# This file is distributed under the same license as the Themes - Pine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-15 14:31:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Pine\n"
+
+#. Description of the plugin/theme
+msgid "Pine is free minimalist WordPress portfolio theme created for people who want to show their work on simple and creative way. Pine is made for a freelancers, designers or smaller agencies who are looking for elegant, professional and minimal look."
+msgstr "Pine - бесплатная тема WordPress в стиле минимализма для сайтов портфолио. Тема создана для тех, кто хочет представить свои работы просто и креативно. Тема Pine подходит для фрилансеров, дизайнеров и небольших студий, которым необходим элегантный, профессиональный и минималистический дизайн."
+
+#: inc/classes/class-pine-notifications.php:246
+msgid "Download Pine PRO"
+msgstr ""
+
+#. translators: %s is a link to the theme.
+#: inc/classes/class-pine-notifications.php:68
+msgid "460+ Customizable Design Options, Drag and Drop Page Builder, 800+ Google Fonts and more. %s"
+msgstr ""
+
+#. translators: %s is a link to the theme.
+#: inc/classes/class-pine-notifications.php:64
+#: inc/classes/class-pine-notifications.php:74
+msgid "Get it!"
+msgstr ""
+
+#. translators: %s is a link to the theme.
+#: inc/classes/class-pine-notifications.php:63
+msgid "We are happy to inform you that Pine PRO theme is available for purchase. %s"
+msgstr ""
+
+#: inc/admin-page.php:478
+msgid "Notifications"
+msgstr ""
+
+#: inc/admin-page.php:417
+msgid "Issue"
+msgstr ""
+
+#: inc/admin-page.php:408
+msgid "Watch"
+msgstr ""
+
+#. translators: %s is a number of GitHub issues.
+#: inc/admin-page.php:392
+msgid "%s issues on GitHub"
+msgstr ""
+
+#. translators: %s is a name of GitHub repository.
+#: inc/admin-page.php:390
+msgid "Issue %s on GitHub"
+msgstr ""
+
+#. translators: %s is a number of GitHub watchers.
+#: inc/admin-page.php:387
+msgid "%s watchers on GitHub"
+msgstr ""
+
+#. translators: %s is a name of GitHub repository.
+#: inc/admin-page.php:385
+msgid "Watch %s on GitHub"
+msgstr ""
+
+#: inc/admin-page.php:166
+msgid "Download child theme"
+msgstr ""
+
+#: inc/admin-page.php:159 inc/admin-page.php:427
+msgid "Fork"
+msgstr ""
+
+#. translators: %s is a name of GitHub repository.
+#: inc/admin-page.php:148
+msgid "Download %s on GitHub"
+msgstr ""
+
+#. translators: %s is a number of GitHub forks.
+#: inc/admin-page.php:146 inc/admin-page.php:397
+msgid "%s forks on GitHub"
+msgstr ""
+
+#. translators: %s is a name of GitHub repository.
+#: inc/admin-page.php:144 inc/admin-page.php:395
+msgid "Fork %s on GitHub"
+msgstr ""
+
+#: inc/admin-page.php:89
+msgid "Star"
+msgstr ""
+
+#. translators: %s is a GitHub username.
+#: inc/admin-page.php:78
+msgid "Follow %s"
+msgstr ""
+
+#. translators: %is is a number of GitHub stargazers.
+#: inc/admin-page.php:65
+msgid "%s stargazers on GitHub"
+msgstr ""
+
+#. translators: %s is a GitHub repo name.
+#: inc/admin-page.php:63
+msgid "Star %s on GitHub"
+msgstr ""
+
+#. translators: %is is a number of GitHub followers.
+#: inc/admin-page.php:60
+msgid "%s followers on GitHub"
+msgstr ""
+
+#. translators: %s is a GitHub username.
+#: inc/admin-page.php:58
+msgid "Follow %s on GitHub"
+msgstr ""
+
+#: inc/admin-page.php:482
+msgid "Subscribe to our mailing list"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Projects list"
+msgstr "Список проектов"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вам нужно. Попробуйте воспользоваться формой поиска."
+
+#: template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, по вашему запросу ничего не найдено. Пожалуйста, попробуйте снова, используя другую ключевую фразу."
+
+#: template-parts/content-none.php:23
+msgid "Get started here"
+msgstr "Начните отсюда"
+
+#. translators: %s: Get started here link.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? %s."
+msgstr "Готовы опубликовать свою первую запись? %s."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-aside.php:29 template-parts/content-chat.php:36
+#: template-parts/content-link.php:31 template-parts/content-page.php:15
+#: template-parts/content-single-chat.php:19
+#: template-parts/content-single.php:16 template-parts/content-status.php:33
+#: template-parts/content.php:31
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-aside.php:20 template-parts/content-chat.php:30
+#: template-parts/content-link.php:21 template-parts/content-status.php:22
+#: template-parts/content.php:26
+msgid "Read more %s"
+msgstr "Подробнее о %s"
+
+#: single.php:53
+msgid "Back to homepage"
+msgstr "На главную"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: projects-list.php:54
+msgid "All"
+msgstr "Все"
+
+#: inc/template-tags.php:79 template-parts/content-page.php:18
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/template-tags.php:75
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: inc/template-tags.php:75
+msgid "1 Comment"
+msgstr "1 комментарий "
+
+#: inc/template-tags.php:75
+msgid "Leave a comment"
+msgstr "Прокомментируйте"
+
+#: inc/template-tags.php:69
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#: inc/template-tags.php:63
+msgid "Posted in %1$s"
+msgstr "Опубликовано %1$s"
+
+#: inc/template-tags.php:43
+msgid " / In %1$s"
+msgstr " / %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:41 inc/template-tags.php:61 inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "By %s"
+msgstr "Автор %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid " / On %s"
+msgstr " / %s"
+
+#: inc/customizer.php:413 inc/template-tags.php:224
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customizer.php:410 inc/template-tags.php:223
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:407 inc/template-tags.php:222
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:404 inc/template-tags.php:221
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customizer.php:401 inc/template-tags.php:220
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/customizer.php:398 inc/template-tags.php:219
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:395 inc/template-tags.php:218
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:392 inc/template-tags.php:217
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customizer.php:386 inc/template-tags.php:215
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer.php:383 inc/template-tags.php:214
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer.php:380 inc/template-tags.php:213
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:377 inc/template-tags.php:212
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:374 inc/template-tags.php:211
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:371
+msgid "Social buttons"
+msgstr "Социальные кнопки"
+
+#: inc/customizer.php:339
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:335
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer.php:314
+msgid "Default Page"
+msgstr "Страница по-умолчанию"
+
+#: inc/customizer.php:288
+msgid "404"
+msgstr "404"
+
+#: inc/customizer.php:262
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer.php:236
+msgid "Category archive"
+msgstr "Рубрика"
+
+#: inc/customizer.php:210
+msgid "Archive"
+msgstr "Архив"
+
+#: inc/customizer.php:184
+msgid "Single"
+msgstr "Публикация"
+
+#: inc/customizer.php:162 inc/customizer.php:188 inc/customizer.php:214
+#: inc/customizer.php:240 inc/customizer.php:266 inc/customizer.php:292
+#: inc/customizer.php:318
+msgid "Disabled"
+msgstr "Отключено"
+
+#: inc/customizer.php:158
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer.php:145 inc/customizer.php:171 inc/customizer.php:197
+#: inc/customizer.php:223 inc/customizer.php:249 inc/customizer.php:275
+#: inc/customizer.php:301 inc/customizer.php:327
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer.php:142 inc/customizer.php:168 inc/customizer.php:194
+#: inc/customizer.php:220 inc/customizer.php:246 inc/customizer.php:272
+#: inc/customizer.php:298 inc/customizer.php:324
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer.php:139 inc/customizer.php:165 inc/customizer.php:191
+#: inc/customizer.php:217 inc/customizer.php:243 inc/customizer.php:269
+#: inc/customizer.php:295 inc/customizer.php:321
+msgid "None"
+msgstr "Нет"
+
+#: inc/customizer.php:135
+msgid "Global"
+msgstr "Общее"
+
+#: inc/customizer.php:121
+msgid "Layouts"
+msgstr "Боковая колонка"
+
+#: inc/customizer.php:111
+msgid "Yellow"
+msgstr "Желтая"
+
+#: inc/customizer.php:106
+msgid "Purple"
+msgstr "Фиолетовая"
+
+#: inc/customizer.php:101
+msgid "Orange"
+msgstr "Оранжевая"
+
+#: inc/customizer.php:96
+msgid "Green"
+msgstr "Зеленая"
+
+#: inc/customizer.php:91
+msgid "Blue"
+msgstr "Синяя"
+
+#: inc/customizer.php:86
+msgid "Red"
+msgstr "Красная"
+
+#: inc/customizer.php:83
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:63
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer.php:50
+msgid "Upload a logo"
+msgstr "Загрузить логотип"
+
+#: inc/customizer.php:39
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: inc/customizer.php:38
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer.php:34
+msgid "Display"
+msgstr "Отображение"
+
+#: inc/customizer-controls.php:316 inc/customizer-controls.php:322
+msgid "New Social Button"
+msgstr "Новая социальная кнопка"
+
+#: inc/customizer-controls.php:311
+msgid "URL"
+msgstr "Ссылка"
+
+#: inc/customizer-controls.php:308
+msgid "Social Network Name"
+msgstr "Название социальной сети"
+
+#: inc/customizer-controls.php:304
+msgid "Custom"
+msgstr "Пользовательская"
+
+#: inc/customizer-controls.php:294
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/customizer-controls.php:293
+msgid "Move up"
+msgstr "Наверх"
+
+#: inc/customizer-controls.php:292
+msgid "Move down"
+msgstr "Вниз"
+
+#. #-#-#-#-#  pine.pot (Pine 1.1.0)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin-page.php:486
+msgid "Pine"
+msgstr "Pine"
+
+#: inc/admin-page.php:483
+msgid "Slicejack News"
+msgstr "Новости от Slicejack"
+
+#: inc/admin-page.php:481
+msgid "Contribute to Pine"
+msgstr "Помочь Pine"
+
+#: inc/admin-page.php:480
+msgid "Child theme"
+msgstr "Дочерняя тема"
+
+#: inc/admin-page.php:479
+msgid "Customize"
+msgstr "Настроить"
+
+#: inc/admin-page.php:477
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: inc/admin-page.php:469
+msgid "Click here"
+msgstr "Нажмите здесь"
+
+#: inc/admin-page.php:454
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно прав для доступа к этой странице."
+
+#: inc/admin-page.php:379
+msgid "Github"
+msgstr "Github"
+
+#. translators: %s is a link to GitHub repository.
+#: inc/admin-page.php:378
+msgid "For everything else %s."
+msgstr "Для всего остального %s."
+
+#: inc/admin-page.php:371
+msgid "pull request"
+msgstr "запрос на включение изменений"
+
+#. translators: %s is a link to GitHub create a pull request form.
+#: inc/admin-page.php:370
+msgid "Want to resolve an issue or create a new feature? Make a %s."
+msgstr "Хотите решить проблему или добавить новую функцию? Сделайте %s."
+
+#: inc/admin-page.php:363
+msgid "new issue"
+msgstr "новая задача"
+
+#. translators: %s is a link to GitHub create an issue form.
+#: inc/admin-page.php:362
+msgid "Found a bug? Create a %s."
+msgstr "Обнаружили баг? Создайте %s."
+
+#: inc/admin-page.php:337
+msgid "Read more"
+msgstr "Далее"
+
+#: inc/admin-page.php:299
+msgid "Untitled"
+msgstr "Без названия"
+
+#: inc/admin-page.php:283
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Произошла ошибка. Похоже, что лента временно недоступна. Попробуйте еще раз немного позже."
+
+#. translators: %s is an error message.
+#: inc/admin-page.php:254
+msgid "<strong>RSS Error</strong>: %s"
+msgstr "<strong>Ошибка RSS</strong>: %s"
+
+#: inc/admin-page.php:224
+msgid "Read more posts"
+msgstr "Больше статей"
+
+#: inc/admin-page.php:199
+msgid "SliceJack Blog"
+msgstr "Блог SliceJack"
+
+#: inc/admin-page.php:192
+msgid "Reload cache"
+msgstr "Перезагрузить кэш"
+
+#. translators: %s is a link to GitHub repository.
+#: inc/admin-page.php:137
+msgid "Want to make more customizations? We prepared child theme for you. Fork it on %s and create custom child theme."
+msgstr "Хотите сделать больше изменений? Мы подготовили для вас дочернюю тему. Сделайте форк на %s и создайте свою собственную дочернюю тему."
+
+#: inc/admin-page.php:121
+msgid "customizer"
+msgstr "панель настроек"
+
+#. translators: %s is a link to Customizer page.
+#: inc/admin-page.php:116
+msgid "Theme customization never been easier. Try %s."
+msgstr "Настройка темы еще никогда не была проще. Попробуйте %s."
+
+#: inc/admin-page.php:54 inc/admin-page.php:138 inc/customizer.php:389
+#: inc/template-tags.php:216
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/admin-page.php:53
+msgid "here"
+msgstr "здесь"
+
+#. translators: %1$s is a blog post link and %2$s is a link to github
+#. repository.
+#: inc/admin-page.php:52
+msgid "Glad to see you here. To start you can read our introduction blog post %1$s. If you are looking for documentation you can find it on %2$s, also our code is very well documented."
+msgstr "Рады что вы здесь. Для начала вы можете почитать нашу статью о выпуске %s. Если вам нужна документация, вы можете найти ее здесь %s, также наш код хорошо документирован."
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Перейти к тексту"
+
+#: functions.php:125
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:68
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:26
+msgid "%1$s &copy; %2$s. - Created by %3$s."
+msgstr "%1$s &copy; %2$s. - Дизайн %3$s."
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: 404.php:17
+msgid "Don't worry, it happens to the best of us."
+msgstr "Не переживайте. Такое случается."
+
+#: 404.php:17
+msgid "It's looking like you may have taken a wrong turn."
+msgstr "Похоже, что вы ошиблись страницей. "
+
+#: 404.php:15
+msgid "Homepage"
+msgstr "Главную"
+
+#: 404.php:15
+msgid "Come back to %s."
+msgstr "Вернуться на %s."
+
+#: 404.php:15
+msgid "Don't fall down!"
+msgstr "Не сдавайтесь!"
+
+#. Author URI of the plugin/theme
+msgid "http://slicejack.com"
+msgstr "http://slicejack.com"
+
+#. Author of the plugin/theme
+msgid "Slicejack"
+msgstr "Slicejack"
+
+#. Theme URI of the plugin/theme
+msgid "http://slicejack.com/pine-free-minimalist-wordpress-portfolio-theme"
+msgstr "http://slicejack.com/pine-free-minimalist-wordpress-portfolio-theme"

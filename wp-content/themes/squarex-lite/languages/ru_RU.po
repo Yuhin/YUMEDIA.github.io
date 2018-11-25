@@ -1,0 +1,977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Squarex Lite v10.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-01 23:21+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ squarex-lite
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Это страница не может быть найдена."
+
+# @ squarex-lite
+#: comments.php:17
+msgid "Comments: "
+msgstr "Комментарии:"
+
+# @ squarex-lite
+#: comments.php:17
+msgid "0"
+msgstr ""
+
+# @ squarex-lite
+#: comments.php:17
+msgid "1"
+msgstr ""
+
+# @ squarex-lite
+#: comments.php:17
+msgid "%"
+msgstr ""
+
+# @ squarex-lite
+#: comments.php:22 comments.php:36
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ squarex-lite
+#: comments.php:23 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+# @ squarex-lite
+#: comments.php:24 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &larr;"
+
+# @ squarex-lite
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr "Написать ответ"
+
+# @ squarex-lite
+#: comments.php:54
+msgid "Post Comment"
+msgstr "Отправить"
+
+# @ squarex-lite
+#: content-fullwidth.php:24 content-page.php:25 content.php:47
+msgid "Pages:"
+msgstr "Страницы: "
+
+# @ squarex-lite
+#: content-fullwidth.php:30 content-page.php:31 content.php:65 image.php:48
+#: inc/template-tags.php:71 inc/template-tags.php:89
+msgid "Edit"
+msgstr "Изменить"
+
+# @ squarex-lite
+#: content.php:33
+msgid "Written by "
+msgstr "Автор "
+
+# @ squarex-lite
+#: functions.php:92 inc/contextual-help.php:79
+msgid "Off-canvas Menu"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:93
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ squarex-lite
+#: functions.php:94 inc/contextual-help.php:74
+msgid "Social Menu"
+msgstr "Социальные кнопки"
+
+# @ squarex-lite
+#: functions.php:128
+msgid "Off-Canvas Sidebar"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:136
+msgid "Pages Sidebar"
+msgstr "Сайдбар страниц"
+
+# @ squarex-lite
+#: functions.php:144
+msgid "Posts page Header"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:145
+msgid "The header area for posts page."
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:153
+msgid "Footer1"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:154
+msgid "Footer left column"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:162
+msgid "Footer2"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:163
+msgid "Footer center column"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:171
+msgid "Footer3"
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:172
+msgid "Footer right column."
+msgstr ""
+
+# @ squarex-lite
+#: functions.php:191
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ squarex-lite
+#: header.php:108
+msgid "Menu"
+msgstr "﻿Меню"
+
+# @ squarex-lite
+#: image.php:34
+#, php-format
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> - <a href=\"%3$s\">%4$s &times; %5$s</a> - <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+# @ squarex-lite
+#: inc/back-compat.php:22 inc/back-compat.php:30 inc/back-compat.php:41
+#, php-format
+msgid "Squarex requires at least WordPress version 4.2. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:16 inc/welcome.php:47 inc/welcome.php:48
+msgid "Squarex Theme"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:17
+msgid "Thank you for choosing Squarex Theme!"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:17
+msgid "The Squarex has a contextual help for almost all admin screens. More information, help and support you will find on the website www.dinevthemes.com."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:17
+msgid "Getting started"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:17
+msgid "Using Customizer set your color, upload a logo image, a background image and other settings."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:17
+msgid "The theme has page templates for the Home Page. To choose the front page template in the Page Attributes when editing the page."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:17
+msgid "If you want to display the pages without sidebar, just leave blank Pages sidebar."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:26 inc/contextual-help.php:27
+#: inc/contextual-help.php:36 inc/contextual-help.php:37
+#: inc/contextual-help.php:46 inc/contextual-help.php:65
+msgid "Theme Features"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:27 inc/contextual-help.php:37
+msgid "Use Featured image"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:27
+msgid "Featured image used for the cover of the header post. Upload the image that will be displayed header on single post."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:37
+msgid "Featured image used for the cover of the header page. Upload the image that will be displayed header on page."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:37
+msgid "Use Excerpt"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:37
+msgid "Enter text in field Excerpt to display announcement of the page content."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:47 inc/contextual-help.php:75
+msgid "Custom widgets"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:47
+msgid "Theme widgets is marked Squarex. If you want to display pages without sidebar just leave blank Pages sidebar."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:47
+msgid "The Squarex has a widgetized home page using the Home Widgets page template. To choose the front page template in the Page Attributes when editing the page."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:55
+msgid "Recommend"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:56
+msgid "Recommended plugins for Squarex Theme"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:56
+msgid "Jetpack By WordPress.com"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:56
+msgid "Contact Form 7 By Takayuki Miyoshi"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:56
+msgid "Shortcodes Ultimate By Vladimir Anokhin."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:66
+msgid "Custom Header background Color"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:66
+msgid "Background color header set using Customizer. Go to Customize > Colors: Header BG Color"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:75
+msgid "Menu icons social media is displayed in the footer. Included all popular icons of social media, and Feedburner. To create a menu item, use the tab Links (Edit Menus). And select Social Menu as Theme locations."
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:75
+msgid "Example:<br />tab <strong>Links</strong><br /><em>URL</em> http://twitter.com/your<br /><em>Navigation Label</em> Twitter"
+msgstr ""
+
+# @ squarex-lite
+#: inc/contextual-help.php:80
+msgid "<p><strong>Off-canvas Menu</strong></p><p>The theme has an additional Off-canvas Menu.</p><p>Off-canvas menu will not be shown if one created menu selected location Primary.</p>"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:136
+msgid "Main Color"
+msgstr "Основные цвета"
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:148
+msgid "Secondary Color"
+msgstr "Вторичный Цвет"
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:160
+msgid "Header BG Color"
+msgstr "Заголовок BG Цвет"
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:172
+msgid "Link Color"
+msgstr "Цвет Ссылки"
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:184
+msgid "Hover Color"
+msgstr "Hover Цвет"
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:196
+msgid "Hover Menu"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:208
+msgid "Menu Bar Color"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:220
+msgid "Menu Bar Current"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:232
+msgid "Menu Link"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:244
+msgid "Menu Link Hover"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:256
+msgid "Border Bold"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:268
+msgid "Border Thin"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:280
+msgid "Additional Color"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:292
+msgid "Footer Text"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/color.php:304
+msgid "Footer BG"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/frontpage.php:13
+msgid "Front Page Options"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/frontpage.php:14
+msgid "Works only for Front Page template."
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/frontpage.php:34
+msgid "Page Header"
+msgstr "Заголовок страницы"
+
+# @ squarex-lite
+#: inc/customizer/settings/frontpage.php:35
+msgid "Check the box to show page header."
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/frontpage.php:43
+msgid "Slider Sticky Posts"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/frontpage.php:44
+msgid "Check the box to show slider sticky posts."
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/frontpage.php:59
+msgid "Number Posts on Front page"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:13
+msgid "Footer Copyright"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:30
+msgid "Copyright"
+msgstr "Авторские права"
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:40
+msgid "Display Options"
+msgstr "Настройки отображения"
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:54
+msgid "Transparent menu bar"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:68
+msgid "No border menu bar"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:82
+msgid "Hide page header"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:96
+msgid "Hide Submenu pages"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:110
+msgid "Numbered navigation"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/general.php:124
+msgid "Disable lightbox image"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/hero.php:13
+msgid "Home Tagline"
+msgstr "Главная слоган"
+
+# @ squarex-lite
+#: inc/customizer/settings/hero.php:14
+msgid "Headlines area for the Homepage. Tagline Text field to type text or paste shortcode. Clear this field to not show Home Tagline."
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/hero.php:47
+msgid "Tagline Text"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/hero.php:56
+msgid "Background Color"
+msgstr "Цвет фона"
+
+# @ squarex-lite
+#: inc/customizer/settings/hero.php:64
+msgid "Background Image"
+msgstr "Картинка фона"
+
+# @ squarex-lite
+#: inc/customizer/settings/logo.php:13
+msgid "Logo Options"
+msgstr "Настройки логотипа"
+
+# @ squarex-lite
+#: inc/customizer/settings/logo.php:14
+msgid "For the option of a round frame best suited a image square size is 400px and more."
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/logo.php:29
+msgid "No Frame logo"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/logo.php:42
+msgid "Logo Image"
+msgstr "Фото логотипа"
+
+# @ squarex-lite
+#: inc/customizer/settings/posts.php:13
+msgid "Post Options"
+msgstr "Настройки записи"
+
+# @ squarex-lite
+#: inc/customizer/settings/posts.php:29
+msgid "Blog Title"
+msgstr "Заголовок блога"
+
+# @ squarex-lite
+#: inc/customizer/settings/posts.php:45
+msgid "Disable meta info on top"
+msgstr ""
+
+# @ squarex-lite
+#: inc/customizer/settings/posts.php:61
+msgid "Disable meta info on bottom"
+msgstr ""
+
+# @ squarex-lite
+#: inc/pagination.php:46
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+# @ squarex-lite
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Навигация по записи"
+
+# @ squarex-lite
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-arrow-left\"></i>"
+msgstr ""
+
+# @ squarex-lite
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-arrow-right\"></i>"
+msgstr ""
+
+# @ squarex-lite
+#: inc/template-tags.php:44
+msgid "Older"
+msgstr "Назад"
+
+# @ squarex-lite
+#: inc/template-tags.php:48
+msgid "Newer"
+msgstr "Вперед"
+
+# @ squarex-lite
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+# @ squarex-lite
+#: inc/template-tags.php:81
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">говорит:</span>"
+
+# @ squarex-lite
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s &middot; %2$s"
+msgstr ""
+
+# @ squarex-lite
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+# @ squarex-lite
+#: inc/template-tags.php:184
+#, php-format
+msgid "<span class=\"posted-on\">%1$s</span><span class=\"byline\"> <i>by</i> %2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span><span class=\"byline\"> <i>от</i> %2$s</span>"
+
+# @ squarex-lite
+#: inc/template-tags.php:203 inc/template-tags.php:204
+msgid ", "
+msgstr ""
+
+# @ squarex-lite
+#: inc/template-tags.php:208
+msgid "Category: "
+msgstr "Категория: "
+
+# @ squarex-lite
+#: inc/template-tags.php:213 template-parts/header.php:20
+msgid "Tag: "
+msgstr "Метки: "
+
+# @ squarex-lite
+#: inc/template-tags.php:466 inc/template-tags.php:468
+#, php-format
+msgid " %s"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:34
+msgid "Thanks for choosing Squarex!"
+msgstr "Спасибо за выбор Squarex!"
+
+# @ squarex-lite
+#: inc/welcome.php:35
+msgid "This theme has built-in Contextual Help for most admin screens."
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:35
+msgid "To get Help right now, click on the tab Help on the top admin bar."
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:35
+#, php-format
+msgid "Get a brief setup instructions on the %swelcome screen%s."
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:36
+msgid "Welcome!"
+msgstr "Приветствуем!"
+
+# @ squarex-lite
+#: inc/welcome.php:66
+msgid "Theme"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:67
+msgid "Thank you for choosing Squarex WordPress theme for your website!"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:72
+msgid "Welcome to"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:75
+msgid "Here are some links to get you started and optional theme-setup tasks:"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:82
+msgid "Get Started"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:85
+#, php-format
+msgid "Squarex includes a page templates. Assign the Home page templates (see Page Attributes box) when editing the your %sfront page%s."
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:89 inc/welcome.php:97
+msgid "Set your Front page, go to"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:89 inc/welcome.php:93 inc/welcome.php:97
+msgid "Front page displays"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:93
+msgid "Set you Posts page, go to"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:101
+msgid "To select page as Front page you will need to create a new page, go to "
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:101
+msgid "Add New Page"
+msgstr "Добавить новую страницу"
+
+# @ squarex-lite
+#: inc/welcome.php:105
+msgid "Set you "
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:105
+msgid "main Menu"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:108
+msgid "Get Premium Squarex"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:110
+msgid "Get more features and support with Premium Squarex!"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:111
+msgid "Get Support"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:117
+msgid "Next Steps"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:119
+msgid "Squarex includes a custom widgets is marked Squarex, go to "
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:119
+msgid "Manage widgets"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:123
+msgid "Using the WordPress Customizer you can tweak appearance."
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:124
+msgid "Customize"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:131
+msgid "Plugins"
+msgstr ""
+
+# @ squarex-lite
+#: inc/welcome.php:133
+msgid "Below you will find links to plugins we recommend. None of these plugins are required for theme to work, they add additional functionality."
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:22
+msgid "Call-To-Action"
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:25
+msgid "Text over a background color with button."
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:50
+msgid "CTA text on a background color with button."
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:53
+msgid "Main Text:"
+msgstr "Основной текст:"
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:58
+msgid "Button Text:"
+msgstr "Текст кнопки:"
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:63
+msgid "Button Link:"
+msgstr "Ссылка кнопки:"
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:69
+msgid "Background Color:"
+msgstr "Цвет фона:"
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:76
+msgid "Color Text:"
+msgstr "Цвет текста:"
+
+# @ squarex-lite
+#: inc/widgets/widget-callact.php:83
+msgid "Color Button:"
+msgstr "Цвет кнопки:"
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:12
+msgid "Image & Text"
+msgstr "Текст & изображения"
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:15
+msgid "The image with the title and text."
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:82
+msgid "This widget is assigned to create a block with the image, title, and short text."
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:84
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:88
+msgid "Image:"
+msgstr "Изображение:"
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:90
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:90
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:94
+msgid "URL:"
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-imagetext.php:100
+msgid "Automatically add paragraphs"
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-pagefeature.php:12
+msgid "Squarex Featured Page"
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-pagefeature.php:15
+msgid "Display a featured page header."
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-pagefeature.php:73
+msgid "Featured Page"
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-pagefeature.php:78
+msgid "This widget will show the title, thumbnail and the announcement of any page on which you want to attract the visitors attention."
+msgstr ""
+
+# @ squarex-lite
+#: inc/widgets/widget-pagefeature.php:81
+msgid "Title"
+msgstr "Заголовок "
+
+# @ squarex-lite
+#: inc/widgets/widget-pagefeature.php:86
+msgid "Page:"
+msgstr "Страница:"
+
+# @ squarex-lite
+#: no-results.php:14
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ squarex-lite
+#: no-results.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ squarex-lite
+#: no-results.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Может быть, получится через форму поиска."
+
+# @ squarex-lite
+#: search-mobile.php:10 searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для:"
+
+# @ squarex-lite
+#: search-mobile.php:11 searchform.php:11
+msgid "Search"
+msgstr "Поиск"
+
+# @ squarex-lite
+#: search-mobile.php:13 searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+# @ squarex-lite
+#: search.php:34
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ squarex-lite
+#: template-parts/header.php:25
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ squarex-lite
+#: template-parts/header.php:29
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ squarex-lite
+#: template-parts/header.php:32
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+# @ squarex-lite
+#: template-parts/header.php:35
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ squarex-lite
+#: template-parts/header.php:38
+msgid "Asides"
+msgstr "Заметки"
+
+# @ squarex-lite
+#: template-parts/header.php:41
+msgid "Images"
+msgstr "Изображения"
+
+# @ squarex-lite
+#: template-parts/header.php:44
+msgid "Videos"
+msgstr "Видео"
+
+# @ squarex-lite
+#: template-parts/header.php:47
+msgid "Quotes"
+msgstr "Цитаты"
+
+# @ squarex-lite
+#: template-parts/header.php:50
+msgid "Links"
+msgstr "Ссылки"
+
+# @ squarex-lite
+#: template-parts/header.php:53
+msgid "Search Results for:"
+msgstr "Результаты поиска для:"
+
+# @ squarex-lite
+#: template-parts/header.php:56
+msgid "Error 404: Not Found"
+msgstr "Ошибка 404: Не найдено"
+
+# @ squarex-lite
+#: template-parts/header.php:58
+msgid "Archive"
+msgstr "Архив"
+
+# @ squarex-lite
+#: template-parts/header.php:75
+#, php-format
+msgid "%s"
+msgstr ""

@@ -1,0 +1,20 @@
+== Squarex Lite WordPress Theme ==
+
+= 1.0.3 - 27.07.2016
+* Fixed: display custom_logo
+* Changed: some other changes
+
+= 1.0.2 - 25.07.2016
+* Fixed: options escaped
+* Changed: Genericons is declared,  tag responsive-layout removed
+* Updated: enabled the core function from custom logo
+* Changed: used the core textarea customize control
+* Changed: some other changes
+
+= 1.0.1 - 11.02.2016
+* Changed: the text in the welcome screen
+* Changed: the name of the translation .po and .mo files
+* Updated: the translation .po and .mo files
+
+= 1.0 - 11.02.2016
+* Initial release.

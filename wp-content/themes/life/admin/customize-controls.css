@@ -1,0 +1,252 @@
+@import '//fonts.googleapis.com/css?family=Roboto:500,700';
+
+
+.customize-control input[type=number] {
+	width: auto;
+}
+
+.customize-control label {
+	display: inline-block;
+}
+
+.customize-control-textarea label {
+	display: inline;
+}
+
+.customize-control-select label,
+.customize-control-range label,
+.customize-control-text label,
+.customize-control-radio label {
+	display: block;
+}
+
+.customize-control-range input[type=range] {
+	width: 100%;
+}
+
+.customize-control .customize-control-description {
+	font-size: 11px;
+	padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-right: 0px !important;
+}
+
+
+/* WP Customizer Customized by Pixelwars */
+
+/* Custom Scollbars */
+.accordion-section-content::-webkit-scrollbar {
+    width: 6px;
+    }
+.accordion-section-content::-webkit-scrollbar-thumb {
+    border-radius: 4px;	background-color: rgba(28, 38, 43, 0.1);
+    }
+.accordion-section-content::-webkit-scrollbar:horizontal {
+    height: 6px; 
+    }
+
+
+.wp-full-overlay { background-color: #dfe4e6; }
+
+#customize-controls .customize-section-title span.customize-action, .control-section-themes .accordion-section-title span.customize-action {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    opacity: .5;
+}
+
+#customize-theme-controls .accordion-section-title {
+    color: inherit;
+    /* border: 0; */
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 500;
+    border-color: #edf0f1;
+}
+
+li#accordion-section-themes h3.accordion-section-title {
+    font-size: 20px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(106, 118, 130);
+    letter-spacing: .04em; font-weight: 500;
+}
+
+#customize-controls .customize-info .accordion-section-title {
+    color: inherit;
+}
+
+#customize-theme-controls .accordion-section-title:after {
+    color: rgba(51, 68, 85, 0.48);
+    font-size: 15px;
+    right: 13px;
+}
+
+#customize-theme-controls .accordion-section-content {
+    color: inherit;
+}
+
+.customize-control-title {
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+    opacity: .8;
+}
+
+.customize-control {
+    padding: 6px 14px;
+    box-sizing: border-box;
+}
+
+#customize-controls .description {
+    color: inherit;
+    padding: 4px 14px;
+    opacity: .6;
+}
+
+input[type=text], input[type=search], input[type=radio], input[type=tel], input[type=time], input[type=url], input[type=week], input[type=password], input[type=checkbox], input[type=color], input[type=date], input[type=datetime], input[type=datetime-local], input[type=email], input[type=month], input[type=number], select, textarea {
+    box-shadow: none;
+    color: inherit;
+    padding: 8px 12px;
+}
+
+input, select {
+    padding: 4px 8px;
+}
+
+.customize-control select {
+    height: 32px;
+    line-height: 32px;
+}
+
+a.customize-controls-close {
+    background: #f5f6f7;
+    border: 0;
+    width: 46px;
+    color: inherit;
+}
+
+.customize-controls-close:focus, .customize-controls-close:hover, .customize-controls-preview-toggle:focus, .customize-controls-preview-toggle:hover {
+    background: rgba(223, 228, 230, 1);
+}
+
+.customize-section-title {
+    border-color: #e0e4e6;
+}
+
+.customize-panel-back, .customize-section-back {
+    border-color: #e0e4e6;
+}
+
+#customize-controls .control-section .accordion-section-title:focus, #customize-controls .control-section .accordion-section-title:hover, #customize-controls .control-section.open .accordion-section-title, #customize-controls .control-section:hover>.accordion-section-title {
+    background: #f3f5f6;
+    color: #234;
+}
+
+.control-section .accordion-section-title {
+    padding: 10px 24px;
+}
+
+.customize-panel-back:focus, .customize-panel-back:hover, .customize-section-back:focus, .customize-section-back:hover {
+    color: inherit;
+    background: #e8eced;
+}
+
+#customize-controls .customize-info {
+    border-color: #e3e9ec;
+}
+
+#customize-controls span.description.customize-control-description {
+    padding-left: 0;
+}
+
+#customize-controls img {
+    border: 0;
+}
+
+.customize-control-image .current .container {
+    padding: 24px 0;
+}
+
+.wp-core-ui .button, .wp-core-ui .button-secondary {
+    box-shadow: none;
+    background: none;
+    border: 2px solid #c8ced0;
+    color: inherit;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: .05em;
+    border-radius: 22px;
+    height: auto;
+    line-height: 1;
+    padding: 6px 14px;
+    color: rgb(128, 157, 156);
+}
+
+.customize-section-title h3, h3.customize-section-title {
+    color: #345;
+}
+
+.wp-core-ui .button-primary {
+    color: #31b95d;
+    text-shadow: none;
+    border-color: #83e0a1;
+}
+
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:focus, .wp-core-ui .button-primary:hover {
+    background: #46d474;
+    border-color: transparent;
+}
+
+.customize-panel-back, .customize-section-back {
+    height: 74px;
+    background: rgb(245, 246, 247);
+    color: inherit;
+}
+
+.customize-controls-close:focus, .customize-controls-close:hover, .customize-controls-preview-toggle:focus, .customize-controls-preview-toggle:hover {
+    color: inherit;
+}
+
+#customize-controls .customize-info .preview-notice {
+    font-weight: 500;
+    font-size: 13px;
+    opacity: .5;
+}
+
+.wp-core-ui .button-primary:active, .wp-core-ui .button-primary:focus {
+    box-shadow: none;
+}
+
+h1, h2, h3 {
+    color: inherit;
+}
+
+#customize-controls .customize-info .panel-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.customize-control-background .current .container, .customize-control-cropped_image .current .container, .customize-control-header .current .container, .customize-control-image .current .container, .customize-control-media .current .container, .customize-control-site_icon .current .container, .customize-control-upload .current .container {
+    border: 0;
+}
+
+input[type=text], input[type=search], input[type=radio], input[type=tel], input[type=time], input[type=url], input[type=week], input[type=password], input[type=checkbox], input[type=color], input[type=date], input[type=datetime], input[type=datetime-local], input[type=email], input[type=month], input[type=number], select, textarea {
+    font-weight: 400;
+}
+
+.wp-core-ui .wp-full-overlay .collapse-sidebar {
+    color: inherit;
+}
+
+.wp-full-overlay-footer .devices button.active:before, .wp-full-overlay-footer .devices button:focus:before, .wp-full-overlay-footer .devices button:hover:before {
+    color: #234; 
+}
+
+.wp-full-overlay-sidebar {
+    background: #fff;
+}
+

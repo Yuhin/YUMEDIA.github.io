@@ -1,0 +1,727 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Full Width v1.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-17 05:22:54+0000\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ skt-full-width
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению, ничего не найдено."
+
+#: 404.php:20
+#@ skt-full-width
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "К сожалению, ничего не найдено."
+
+#: 404.php:28
+#@ skt-full-width
+msgid "Most Used Categories"
+msgstr "Популярные категории"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+#, php-format
+#@ skt-full-width
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Архив за месяц: %1$s"
+
+#: archive.php:32
+#, php-format
+#@ skt-full-width
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: archive.php:40
+#, php-format
+#@ skt-full-width
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:43
+#, php-format
+#@ skt-full-width
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:46
+#, php-format
+#@ skt-full-width
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:49
+#@ skt-full-width
+msgid "Asides"
+msgstr "Формат"
+
+#: archive.php:52
+#@ skt-full-width
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:55
+#@ skt-full-width
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:58
+#@ skt-full-width
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:61
+#@ skt-full-width
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:64
+#: sidebar.php:12
+#@ skt-full-width
+msgid "Archives"
+msgstr "Архивы"
+
+#: comments.php:29
+#, php-format
+#@ skt-full-width
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:36
+#: comments.php:56
+#@ skt-full-width
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:37
+#: comments.php:57
+#@ skt-full-width
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:38
+#: comments.php:58
+#@ skt-full-width
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:68
+#@ skt-full-width
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: content-page.php:18
+#: content-single.php:22
+#: content.php:31
+#: image.php:58
+#@ skt-full-width
+msgid "Pages:"
+msgstr "Страницы"
+
+#. translators: used between list items, there is a space after the comma
+#: content-page.php:23
+#: content-single.php:61
+#: content.php:65
+#: image.php:32
+#: image.php:64
+#: inc/template-tags.php:71
+#: inc/template-tags.php:90
+#@ skt-full-width
+msgid "Edit"
+msgstr "Изменить"
+
+#: content.php:28
+#@ skt-full-width
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:42
+#: content.php:52
+#@ skt-full-width
+msgid ", "
+msgstr ""
+
+#: content.php:46
+#, php-format
+#@ skt-full-width
+msgid "Posted in %1$s"
+msgstr "Опубликовано: %1$s"
+
+#: content.php:56
+#, php-format
+#@ skt-full-width
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#: content.php:62
+#@ skt-full-width
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+#: content.php:62
+#@ skt-full-width
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: content.php:62
+#@ skt-full-width
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+#: functions.php:35
+#@ skt-full-width
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: functions.php:51
+#@ skt-full-width
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:52
+#@ skt-full-width
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: header.php:102
+#@ skt-full-width
+msgid "Menu"
+msgstr ""
+
+#: header.php:103
+#@ skt-full-width
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: image.php:22
+#, php-format
+#@ skt-full-width
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликовано: <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> в <a href=\"%3$s\">%4$s &times; %5$s</a> - <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:37
+#@ skt-full-width
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+#: image.php:38
+#@ skt-full-width
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Вперед <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/extras.php:66
+#, php-format
+#@ skt-full-width
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/options-framework.php:147
+#@ optionsframework
+msgid "Full Width Theme Options"
+msgstr ""
+
+#: inc/options-framework.php:148
+#@ optionsframework
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options-framework.php:193
+#@ options_framework_theme
+msgid "Clear"
+msgstr ""
+
+#: inc/options-framework.php:194
+#@ options_framework_theme
+msgid "Default"
+msgstr ""
+
+#: inc/options-framework.php:195
+#@ options_framework_theme
+msgid "Select Color"
+msgstr ""
+
+#: inc/options-framework.php:239
+#@ options_framework_theme
+msgid "Save Options"
+msgstr ""
+
+#: inc/options-framework.php:240
+#@ options_framework_theme
+msgid "Restore Defaults"
+msgstr ""
+
+#: inc/options-framework.php:240
+#@ options_framework_theme
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/options-framework.php:272
+#@ options_framework_theme
+msgid "Default options restored."
+msgstr ""
+
+#: inc/options-framework.php:326
+#@ options_framework_theme
+msgid "Options saved."
+msgstr ""
+
+#: inc/options-framework.php:376
+#@ options_framework_theme
+msgid "SKT Full Width Settings"
+msgstr ""
+
+#: inc/options-media-uploader.php:51
+#@ options_framework_theme
+msgid "No file chosen"
+msgstr ""
+
+#: inc/options-media-uploader.php:54
+#: inc/options-media-uploader.php:113
+#@ options_framework_theme
+msgid "Upload"
+msgstr ""
+
+#: inc/options-media-uploader.php:56
+#: inc/options-media-uploader.php:114
+#@ options_framework_theme
+msgid "Remove"
+msgstr ""
+
+#: inc/options-media-uploader.php:59
+#@ options_framework_theme
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/options-media-uploader.php:83
+#@ options_framework_theme
+msgid "View File"
+msgstr ""
+
+#: inc/options-sanitize.php:237
+#@ options_framework_theme
+msgid "No Repeat"
+msgstr ""
+
+#: inc/options-sanitize.php:238
+#@ options_framework_theme
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/options-sanitize.php:239
+#@ options_framework_theme
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/options-sanitize.php:240
+#@ options_framework_theme
+msgid "Repeat All"
+msgstr ""
+
+#: inc/options-sanitize.php:253
+#@ options_framework_theme
+msgid "Top Left"
+msgstr ""
+
+#: inc/options-sanitize.php:254
+#@ options_framework_theme
+msgid "Top Center"
+msgstr ""
+
+#: inc/options-sanitize.php:255
+#@ options_framework_theme
+msgid "Top Right"
+msgstr ""
+
+#: inc/options-sanitize.php:256
+#@ options_framework_theme
+msgid "Middle Left"
+msgstr ""
+
+#: inc/options-sanitize.php:257
+#@ options_framework_theme
+msgid "Middle Center"
+msgstr ""
+
+#: inc/options-sanitize.php:258
+#@ options_framework_theme
+msgid "Middle Right"
+msgstr ""
+
+#: inc/options-sanitize.php:259
+#@ options_framework_theme
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/options-sanitize.php:260
+#@ options_framework_theme
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/options-sanitize.php:261
+#@ options_framework_theme
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/options-sanitize.php:274
+#@ options_framework_theme
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/options-sanitize.php:275
+#@ options_framework_theme
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/options-sanitize.php:349
+#@ options_framework_theme
+msgid "Normal"
+msgstr ""
+
+#: inc/options-sanitize.php:350
+#@ options_framework_theme
+msgid "Italic"
+msgstr ""
+
+#: inc/options-sanitize.php:351
+#@ options_framework_theme
+msgid "Bold"
+msgstr ""
+
+#: inc/options-sanitize.php:352
+#@ options_framework_theme
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/template-tags.php:34
+#@ skt-full-width
+msgid "Post navigation"
+msgstr "Навигация"
+
+#: inc/template-tags.php:38
+#@ skt-full-width
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:39
+#@ skt-full-width
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:44
+#@ skt-full-width
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: inc/template-tags.php:48
+#@ skt-full-width
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:71
+#@ skt-full-width
+msgid "Pingback:"
+msgstr "Пингбек:"
+
+#: inc/template-tags.php:87
+#, php-format
+#@ skt-full-width
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:94
+#@ skt-full-width
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает проверки"
+
+#: inc/template-tags.php:185
+#, php-format
+#@ skt-full-width
+msgid "<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Опубликовано: %1$s</span><span class=\"byline\"> Автор: %2$s</span>"
+
+#: no-results.php:14
+#@ skt-full-width
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:20
+#, php-format
+#@ skt-full-width
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост? <a href=\"%1$s\">Вперед</a>."
+
+#: no-results.php:24
+#@ skt-full-width
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, ничего не найдено."
+
+#: no-results.php:29
+#@ skt-full-width
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "К сожалению, ничего не найдено."
+
+#: options.php:37
+#@ skt-full-width
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+#: options.php:41
+#@ skt-full-width
+msgid "Logo"
+msgstr "Лого"
+
+#: options.php:42
+#@ skt-full-width
+msgid "Upload your logo here"
+msgstr "Загрузить лого"
+
+#: options.php:50
+#@ skt-full-width
+msgid "Copyright Text"
+msgstr "Текст копирайта"
+
+#: options.php:51
+#@ skt-full-width
+msgid "Some Text regarding copyright of your site, you would like to display in the footer."
+msgstr "&nbsp;"
+
+#: options.php:59
+#@ skt-full-width
+msgid "Layout Settings"
+msgstr "Структура сайта"
+
+#: options.php:74
+#@ skt-full-width
+msgid "Custom CSS"
+msgstr "Свой CSS"
+
+#: options.php:75
+#@ skt-full-width
+msgid "Some Custom Styling for your site. Place any css codes here instead of the style.css file."
+msgstr "&nbsp;"
+
+#: options.php:83
+#@ skt-full-width
+msgid "Homepage Slider"
+msgstr ""
+
+#: options.php:94
+#@ skt-full-width
+msgid "Slider Image 1"
+msgstr "Слайд 1"
+
+#: options.php:95
+#@ skt-full-width
+msgid "First Slide"
+msgstr "Первый слайд"
+
+#: options.php:101
+#: options.php:127
+#: options.php:153
+#: options.php:179
+#: options.php:205
+#@ skt-full-width
+msgid "Title"
+msgstr "Заголовок"
+
+#: options.php:107
+#: options.php:133
+#: options.php:159
+#: options.php:185
+#: options.php:211
+#@ skt-full-width
+msgid "Description or Tagline"
+msgstr "Описание"
+
+#: options.php:113
+#: options.php:139
+#: options.php:165
+#: options.php:191
+#: options.php:217
+#@ skt-full-width
+msgid "Url"
+msgstr ""
+
+#: options.php:120
+#@ skt-full-width
+msgid "Slider Image 2"
+msgstr "Слайд 2"
+
+#: options.php:121
+#@ skt-full-width
+msgid "Second Slide"
+msgstr "Второй слайд"
+
+#: options.php:146
+#@ skt-full-width
+msgid "Slider Image 3"
+msgstr "Слайд 3"
+
+#: options.php:147
+#@ skt-full-width
+msgid "Third Slide"
+msgstr "Третий слайд"
+
+#: options.php:172
+#@ skt-full-width
+msgid "Slider Image 4"
+msgstr "Слайд 4"
+
+#: options.php:173
+#@ skt-full-width
+msgid "Fourth Slide"
+msgstr "Четвертый слайд"
+
+#: options.php:198
+#@ skt-full-width
+msgid "Slider Image 5"
+msgstr "Слайд 5"
+
+#: options.php:199
+#@ skt-full-width
+msgid "Fifth Slide"
+msgstr "Пятый слайд"
+
+#: options.php:226
+#@ skt-full-width
+msgid "Social Settings"
+msgstr "Соц.сети"
+
+#: options.php:230
+#@ skt-full-width
+msgid "Please set the value of following fields, as per the instructions given along. If you do not want to use an icon, just leave it blank. If some icons are showing up, even when no value is set then make sure they are completely blank, and just save the options once. They will not be shown anymore."
+msgstr ""
+
+#: options.php:234
+#@ skt-full-width
+msgid "Facebook"
+msgstr ""
+
+#: options.php:235
+#@ skt-full-width
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr ""
+
+#: options.php:243
+#@ skt-full-width
+msgid "Twitter"
+msgstr ""
+
+#: options.php:244
+#@ skt-full-width
+msgid "Twitter Username"
+msgstr ""
+
+#: options.php:251
+#@ skt-full-width
+msgid "Google Plus"
+msgstr ""
+
+#: options.php:252
+#@ skt-full-width
+msgid "Google Plus profile url, including \"http://\""
+msgstr ""
+
+#: options.php:260
+#@ skt-full-width
+msgid "Linkedin"
+msgstr ""
+
+#: options.php:261
+#@ skt-full-width
+msgid "Linkedin URL"
+msgstr ""
+
+#: options.php:271
+#@ skt-full-width
+msgid "Contact Details for footer"
+msgstr ""
+
+#: options.php:275
+#@ skt-full-width
+msgid "Company Name"
+msgstr ""
+
+#: options.php:281
+#@ skt-full-width
+msgid "Address 1"
+msgstr ""
+
+#: options.php:287
+#@ skt-full-width
+msgid "Address 2"
+msgstr ""
+
+#: options.php:293
+#@ skt-full-width
+msgid "Phone"
+msgstr ""
+
+#: options.php:299
+#@ skt-full-width
+msgid "Email"
+msgstr ""
+
+#: options.php:307
+#@ skt-full-width
+msgid "Our Themes"
+msgstr ""
+
+#: options.php:311
+#@ skt-full-width
+msgid "SKT Full Width WordPress theme has been Designed and Created by SKT Themes."
+msgstr ""
+
+#: search.php:17
+#, php-format
+#@ skt-full-width
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:10
+#@ skt-full-width
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:11
+#@ skt-full-width
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+#: searchform.php:13
+#@ skt-full-width
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: sidebar.php:18
+#@ skt-full-width
+msgid "Meta"
+msgstr ""
+

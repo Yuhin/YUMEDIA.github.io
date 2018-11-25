@@ -1,0 +1,670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixgraphy v10.1.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-09-22 21:25+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ pixgraphy
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Это страница не может быть найдена."
+
+# @ pixgraphy
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+# @ pixgraphy
+#: comments.php:18
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ pixgraphy
+#: comments.php:39
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+# @ pixgraphy
+#: content.php:30 single.php:53
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+# @ pixgraphy
+#: content.php:30 single.php:53
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ pixgraphy
+#: content.php:30 single.php:53
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ pixgraphy
+#: content.php:30 content.php:118 single.php:53
+msgid "Comments Off"
+msgstr "Комментарии выкл"
+
+# @ pixgraphy
+#: content.php:63 single.php:84
+msgid "Category : "
+msgstr "Категория :"
+
+# @ pixgraphy
+#: content.php:65 single.php:86
+msgid ", "
+msgstr ""
+
+# @ pixgraphy
+#: content.php:77
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ pixgraphy
+#: content.php:118
+msgid "<i class=\"fa fa-comment\"></i>"
+msgstr ""
+
+# @ pixgraphy
+#: content.php:118
+msgid "% <i class=\"fa fa-comment\"></i>"
+msgstr ""
+
+# @ pixgraphy
+#: footer.php:55
+msgid "Go to Top"
+msgstr "Наверх"
+
+# @ pixgraphy
+#: functions.php:53
+msgid "Main Menu"
+msgstr "Главное Меню"
+
+# @ pixgraphy
+#: functions.php:132 functions.php:133
+msgid "Review Pixgraphy"
+msgstr ""
+
+# @ pixgraphy
+#: functions.php:135 functions.php:136
+msgid "Theme Instructions"
+msgstr ""
+
+# @ pixgraphy
+#: functions.php:138 functions.php:139
+msgid "Forum"
+msgstr ""
+
+# @ pixgraphy
+#: functions.php:145
+msgid "About Pixgraphy"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:12
+msgid "Layout Options"
+msgstr "Настройки расположения"
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:23
+msgid "Responsive Layout"
+msgstr "Адаптивный дизайн"
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:28
+#: inc/customizer/functions/design-options.php:44
+msgid "ON "
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:29
+#: inc/customizer/functions/design-options.php:45
+msgid "OFF"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:39
+msgid "Animation Options"
+msgstr "Настройки анимации"
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:55
+#: inc/customizer/functions/design-options.php:60
+msgid "Photography Layout"
+msgstr "Расположение элементов "
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:61
+msgid "Blog large image display"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:62
+msgid "Blog medium image display"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:72
+msgid "Disable Entry Format from Blog Page"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:76
+msgid "Display Entry Format"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:77
+msgid "Hide Entry Format"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:78
+msgid "Show Button Only"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:79
+msgid "Hide Button Only"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:89
+msgid "Disable Entry Meta from Blog Page"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:93
+msgid "Display Entry Meta"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:94
+msgid "Hide Entry Meta"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:104
+msgid "Design Layout"
+msgstr "Дизайн расположение"
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:109
+msgid "Full Width Layout"
+msgstr "Макет по всей ширине"
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:110
+msgid "Boxed Layout"
+msgstr "Блочная разметка"
+
+# @ pixgraphy
+#: inc/customizer/functions/design-options.php:111
+msgid "Small Boxed Layout"
+msgstr "Макет в малом обрамлении"
+
+# @ pixgraphy
+#: inc/customizer/functions/featured-content-customizer.php:12
+msgid "Slider Settings"
+msgstr "Настройка Слайдера"
+
+# @ pixgraphy
+#: inc/customizer/functions/featured-content-customizer.php:23
+msgid "Enable Slider"
+msgstr "Включить слайдер"
+
+# @ pixgraphy
+#: inc/customizer/functions/featured-content-customizer.php:28
+msgid "Front Page"
+msgstr "Настройки главной"
+
+# @ pixgraphy
+#: inc/customizer/functions/featured-content-customizer.php:29
+msgid "Entire Site"
+msgstr "Весь сайт"
+
+# @ pixgraphy
+#: inc/customizer/functions/featured-content-customizer.php:30
+msgid "Disable Slider"
+msgstr "Отключить слайдер"
+
+# @ pixgraphy
+#: inc/customizer/functions/register-panel.php:16
+msgid "Pixgraphy WordPress Settings"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/register-panel.php:26
+msgid "Pixgraphy Theme Options"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/register-panel.php:36
+msgid "Pixgraphy Slider Options"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/register-panel.php:46
+msgid "Pixgraphy Widgets"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:12
+msgid "Social Icons"
+msgstr "Иконки соц. сетей"
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:25
+msgid "Facebook Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:39
+msgid "Twitter Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:53
+msgid "Pinterest Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:67
+msgid "Dribbble Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:81
+msgid "Instagram Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:95
+msgid "Flickr Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/social-icons.php:109
+msgid "Google Plus Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:12
+msgid "Site Title & Logo Options"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:23
+msgid "Site Logo/ Text Options"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:29
+msgid "Display Site Title Only"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:30
+msgid "Display Site Logo Only"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:31
+msgid "Show Both"
+msgstr "Показать оба"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:32
+msgid "Disable Both"
+msgstr "Скрыть Всё"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:36
+msgid "Header Image"
+msgstr "Изображение шапки"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:41
+msgid "Pixgraphy Options"
+msgstr "Pixgraphy параметры"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:52
+msgid "Disable Search Form"
+msgstr "Отключить поле поиска"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:63
+msgid "Disable Stick Menu"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:74
+msgid "Disable Goto Top"
+msgstr "Отключить Подняться наверх"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:85
+msgid "Disable Top Social Icons"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:96
+msgid "Disable Buttom Social Icons"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:108
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:113
+msgid "Enter your custom CSS"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:124
+msgid "Custom CSS"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:130
+#: inc/customizer/functions/theme-options.php:141
+msgid "Footer Background Image"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:142
+msgid "Image will be displayed on footer"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:154
+msgid "Footer Title"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:165
+msgid "Footer Link"
+msgstr ""
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:171
+msgid "Colors"
+msgstr "Цвета"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:176
+msgid "Background Image"
+msgstr "Картинка фона"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:181
+msgid "Navigation"
+msgstr "Навигация"
+
+# @ pixgraphy
+#: inc/customizer/functions/theme-options.php:186
+msgid "Static Front Page"
+msgstr ""
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:15
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:18
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:21
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:70
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:73
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:75
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:77
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:79
+msgid "Audios"
+msgstr "Аудио"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:81
+msgid "Asides"
+msgstr "Заметки"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:83
+msgid "Images"
+msgstr "Изображения"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:85
+msgid "Galleries"
+msgstr "Галереи"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:87
+msgid "Videos"
+msgstr "Видео"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:89
+msgid "Status"
+msgstr "Статус"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:91
+msgid "Quotes"
+msgstr "Цитаты"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:93
+msgid "links"
+msgstr "ссылки"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:95
+msgid "Chats"
+msgstr "Чаты"
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:106
+msgid "Page NOT Found"
+msgstr ""
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-common-functions.php:108
+msgid "Search Results"
+msgstr ""
+
+# @ pixgraphy
+#: inc/settings/pixgraphy-functions.php:84
+msgid "Upgrade to Pro"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:11
+msgid "Display Contact Us Information"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:13
+msgid "TF: Contact Us"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:26
+msgid "Contact Title:"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:32
+msgid "Address:"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:38
+msgid "Address Link:"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:44
+msgid "Phone No 1:"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:50
+msgid "Phone No 2:"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:56
+msgid "Skype ID:"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/contactus-widgets.php:62
+msgid "Email ID:"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:14
+msgid "Main Sidebar"
+msgstr "Главный сайдбар"
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:16
+msgid "Shows widgets at Main Sidebar."
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:23
+msgid "Display Contact Info at Header "
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:25
+msgid "Shows widgets on all page."
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:30
+msgid "Contact Page Sidebar"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:32
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:39
+msgid "Shortcode For Contact Page"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:41
+msgid "Add Contact Form 7 Shortcode using text widgets Ex: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:48
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+# @ pixgraphy
+#: inc/widgets/widgets-functions/register-widgets.php:50
+msgid "Add WooCommerce Widgets Only"
+msgstr ""
+
+# @ pixgraphy
+#: index.php:41 page-templates/contact-template.php:51
+#: page-templates/gallery-template.php:52 page.php:52 search.php:38
+#: single.php:112
+msgid "No Posts Found."
+msgstr "Записей не найдено"
+
+# @ pixgraphy
+#: page-templates/gallery-template.php:39 page.php:39 single.php:71
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ pixgraphy
+#: pagination.php:19
+msgid "&laquo; Previous Page"
+msgstr "&laquo; Предыдущая страница"
+
+# @ pixgraphy
+#: pagination.php:22
+msgid "Next Page &raquo;"
+msgstr "Следующая страница &raquo;"
+
+# @ pixgraphy
+#: searchform.php:18
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+# @ pixgraphy
+#: single.php:97
+msgid "&larr; Previous"
+msgstr "&larr; Назад"
+
+# @ pixgraphy
+#: single.php:98
+msgid "Next &rarr;"
+msgstr "Вперед &rarr;"
+
+# @ pixgraphy
+#: single.php:102
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+# @ pixgraphy
+#: single.php:103
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""

@@ -1,0 +1,15 @@
+<div class="element clearfix home portfolio <?php echo ebor_the_terms( 'portfolio_category', ' ', 'slug' ); ?> col1-3"> 
+	<a href="<?php the_permalink(); ?>" class="permalink">
+		<figure class="images"> 
+			<?php
+				the_post_thumbnail(
+					'tile',
+					array(
+						'class' => 'slip',
+						'alt'   => '<span>'. get_the_title() .'</span><i>→</i>'
+					)
+				);
+			?>
+		</figure>
+	</a> 
+</div>

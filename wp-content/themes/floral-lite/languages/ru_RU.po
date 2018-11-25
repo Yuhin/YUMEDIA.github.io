@@ -1,0 +1,555 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Floral Lite v10.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-11-03 17:54+0200\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ floral-lite
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+# @ floral-lite
+#: 404.php:20
+msgid "OOPS! Page you're looking for doesn't exist. Please use search for help"
+msgstr "Извините, страница, которую вы ищете, не существует."
+
+# @ floral-lite
+#: 404.php:23
+msgid "Back to Home Page"
+msgstr "Вернуться на главную страницу"
+
+# @ floral-lite
+#: archive.php:39 index.php:43 search.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Назад"
+
+# @ floral-lite
+#: archive.php:40 index.php:44 search.php:42
+msgid "Next &rarr;"
+msgstr "Вперед &rarr;"
+
+# @ floral-lite
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий для &ldquo;%1$s&rdquo;"
+
+# @ floral-lite
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ floral-lite
+#: comments.php:50 comments.php:72
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ floral-lite
+#: comments.php:53 comments.php:75
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ floral-lite
+#: comments.php:54 comments.php:76
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ floral-lite
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ floral-lite
+#: footer.php:23
+msgid "https://wordpress.org/"
+msgstr ""
+
+# @ floral-lite
+#. translators: link to wordpress.org
+#: footer.php:26
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+# @ floral-lite
+#. translators: %1$s is theme name, %2$s is url to gretathemes.com
+#: footer.php:32
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+# @ floral-lite
+#: functions.php:49
+msgid "Header"
+msgstr "Шапка сайта"
+
+# @ floral-lite
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+# @ floral-lite
+#: functions.php:110
+msgid "Add widgets here."
+msgstr "Добавьте свои виджеты."
+
+# @ floral-lite
+#: functions.php:156
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+# @ floral-lite
+#: functions.php:159
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ floral-lite
+#: functions.php:194
+#, php-format
+msgid "Thank you for choosing Floral Lite. To get started, visit our <a href=\"%s\">welcome page</a>."
+msgstr ""
+
+# @ floral-lite
+#: header.php:23
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+# @ floral-lite
+#: header.php:29
+msgid "Menu"
+msgstr "﻿Меню"
+
+# @ floral-lite
+#: header.php:43
+msgid "Open Search Popup"
+msgstr "Открыть всплывающее окно поиска"
+
+# @ floral-lite
+#: header.php:49
+msgid "Close Search Popup"
+msgstr "Закрыть всплывающее окно поиска"
+
+# @ floral-lite
+#: inc/dashboard/sections/getting-started.php:12
+msgid "Customize The Theme"
+msgstr "Настроить тему"
+
+# @ floral-lite
+#: inc/dashboard/sections/getting-started.php:13
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/getting-started.php:15
+msgid "Start Customize"
+msgstr "Начать настройку"
+
+# @ floral-lite
+#: inc/dashboard/sections/getting-started.php:17
+msgid "Read Full Documentation"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/getting-started.php:18
+msgid "Need any help to setup and configure the theme? Please check our full documentation for detailed information on how to use it."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/getting-started.php:20
+msgid "Read Documentation"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/getting-started.php:25
+msgid "screenshot"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:14
+msgid "Lite"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:15
+msgid "PRO"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:21
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:22
+msgid "Works in any browsers on desktops, tablets and mobile devices and optimized for speed."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:29
+msgid "Featured Content"
+msgstr "Рекомендуемый контент"
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:30
+msgid "Show your most important posts in a slider on the front page. Install Jetpack to use this feature."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:37
+msgid "Sticky Sidebar"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:38
+msgid "Glues your website 's sidebar, making them permanently visible when scrolling up and down."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:45
+msgid "1-Click Demo Import"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:46
+msgid "Save time setting up the theme and get exactly what you see in the demo."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:53
+msgid "Instagram in Sidebar and Footer"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:54
+msgid "Showing your Instagram images in the footer or sidebar in an attractive format."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:61
+msgid "Custom Google Fonts"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:62
+msgid "Integrated all Google Fonts with various options to customize for a beautiful typography."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:69
+msgid "Custom Colors"
+msgstr "Пользовательские цвета"
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:70
+msgid "Customize colors of any element on your website."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:77
+msgid "Infinite Scroll"
+msgstr "Бесконечная прокрутка"
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:78
+msgid "Load more posts when reaching the end of the page. Support auto mode and manual mode."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:85
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:86
+msgid "Show related posts after posting to recommend previous posts from your blog to the visitors."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:93
+msgid "Priority Support"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:94
+msgid "You will benefit of our full support for any issues you have with the theme."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/pro.php:102
+msgid "Get Floral PRO now"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:12
+msgid "Contact Support"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:13
+msgid "Our support is only available for pro version. Upgrade to Floral Pro now to get access to our excellent support as well as variety of useful features"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:14
+msgid "Upgrade Now"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:17
+msgid "More Themes From Us"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:21
+#, php-format
+msgid "If you like %s, you might want to see another beautiful themes from "
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:23 inc/dashboard/sections/support.php:32
+#: inc/dashboard/sections/support.php:37
+msgid "GretaThemes"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:24
+msgid "We build high quality WordPress themes that are well designed and simple to set up. Check them out here!"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:26
+msgid "Visit GretaThemes"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:29
+msgid "You Might Also Like"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:33
+msgid "gretathemes"
+msgstr ""
+
+# @ floral-lite
+#. translators: placeholder for HTML
+#: inc/dashboard/sections/support.php:42
+#, php-format
+msgid "Modern, clean, responsive %s for all your needs. Fast loading, easy to use and optimized for SEO."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:48 inc/dashboard/sections/support.php:52
+msgid "Meta Box"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:49
+msgid "metabox"
+msgstr ""
+
+# @ floral-lite
+#. translators: placeholder for HTML
+#: inc/dashboard/sections/support.php:56
+#, php-format
+msgid "The lightweight %1$s feature-rich WordPress plugin that helps developers to save time building %2$s."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:62 inc/dashboard/sections/support.php:67
+msgid "Professional WooCommerce Plugins"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:63
+msgid "prowcplugins"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/support.php:67
+msgid "ProWCPlugins"
+msgstr ""
+
+# @ floral-lite
+#. translators: placeholder for HTML
+#: inc/dashboard/sections/support.php:72
+#, php-format
+msgid "Professional %s that help you empower your e-commerce sites and grow your business."
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/tabs.php:10
+msgid "Getting Started"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/tabs.php:11
+msgid "Free vs. PRO"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/tabs.php:12
+msgid "Support"
+msgstr ""
+
+# @ floral-lite
+#: inc/dashboard/sections/welcome.php:12
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+# @ floral-lite
+#. translators: link read more.
+#: inc/extras.php:43
+#, php-format
+msgid "Continue reading &#10142; %s"
+msgstr "Продолжить чтение &#10142; %s"
+
+# @ floral-lite
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:31 inc/template-tags.php:40
+msgid ", "
+msgstr ""
+
+# @ floral-lite
+#: inc/template-tags.php:33
+msgid "Categories"
+msgstr "Категории"
+
+# @ floral-lite
+#. translators: %s: post title
+#: inc/template-tags.php:49
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\">на %s</span>"
+
+# @ floral-lite
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:84 template-parts/content-page.php:35
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+# @ floral-lite
+#: inc/widgets/class-floral-recent-posts-widget.php:25
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+# @ floral-lite
+#: inc/widgets/class-floral-recent-posts-widget.php:31
+msgid "Floral: Recent Posts"
+msgstr "Floral: Свежие записи"
+
+# @ floral-lite
+#: inc/widgets/class-floral-recent-posts-widget.php:33
+msgid "A widget that displays your recent posts from all categories or a category"
+msgstr ""
+
+# @ floral-lite
+#: inc/widgets/class-floral-recent-posts-widget.php:120
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ floral-lite
+#: inc/widgets/class-floral-recent-posts-widget.php:124
+msgid "Number of posts to show:"
+msgstr "Количество записей:"
+
+# @ floral-lite
+#: inc/widgets/class-floral-recent-posts-widget.php:129
+msgid "Display post date?"
+msgstr "Показывать дату?"
+
+# @ floral-lite
+#. translators: the search query
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ floral-lite
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Поиск для: "
+
+# @ floral-lite
+#: searchform.php:13
+msgid "Enter your Keyword"
+msgstr "Введите ключевое слово"
+
+# @ floral-lite
+#: searchform.php:17
+msgid "Search"
+msgstr "Поиск"
+
+# @ floral-lite
+#: single.php:22
+msgid "Next Post"
+msgstr "Следующая запись"
+
+# @ floral-lite
+#: single.php:23
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+# @ floral-lite
+#: template-parts/content-media.php:33
+msgid "Featured"
+msgstr "Избранное"
+
+# @ floral-lite
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ floral-lite
+#. translators: link to create new post.
+#: template-parts/content-none.php:25
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ floral-lite
+#: template-parts/content-none.php:36
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено. Пожалуйста, попробуйте еще раз с другими ключевыми словами."
+
+# @ floral-lite
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "К сожалению, мы не можем найти то, что Вы ищете. Возможно Вам может помочь поиск."
+
+# @ floral-lite
+#: template-parts/content-page.php:23 template-parts/content-single.php:26
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Странницы:"
+
+# @ floral-lite
+#: template-parts/content-single.php:39
+msgid "Posted by "
+msgstr "Опубликовано"

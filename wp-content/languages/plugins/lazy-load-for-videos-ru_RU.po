@@ -1,0 +1,397 @@
+# Translation of Plugins - Lazy Load for Videos - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Lazy Load for Videos - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 07:23:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Lazy Load for Videos - Development (trunk)\n"
+
+#: admin/class-admin-options.php:346
+msgid "Note from Youtube: This parameter has been deprecated for HTML5 players, which always use the dark theme."
+msgstr "Заметка YouTube: Этот параметр устарел для HTML5 проигрывателя, он всегда использует темную тему."
+
+#. Author of the plugin/theme
+msgid "Kevin Weber"
+msgstr "Kevin Weber"
+
+#. Description of the plugin/theme
+msgid "Lazy Load for Videos speeds up your site by replacing embedded Youtube and Vimeo videos with a clickable preview image. Visitors simply click on the image to play the video."
+msgstr "Lazy Load for Videos улучшает скорость загрузки вашего сайта, заменяя встроенные Youtube и Vimeo ролики кликабельным изображением. Для проигрывания видео, посетители должны просто кликнуть на изображение."
+
+#: admin/inc/define.php:7
+msgid "Signup via Plugin"
+msgstr "Зарегистрироваться с помощью плагина"
+
+#: admin/inc/define.php:6
+msgid "Get contacted"
+msgstr "Отправить контакты"
+
+#: admin/inc/define.php:5
+msgid "To suggest and vote for new features: Let the developer come into contact with you."
+msgstr "Чтобы предложить новые функции или проголосовать за них: предоставьте, пожалуйста, разработчику свои контактные данные."
+
+#: admin/class-meta.php:69
+msgid "Default"
+msgstr "Настройки по умолчанию"
+
+#: admin/class-meta.php:65
+msgid "Youtube thumbnail quality"
+msgstr "Качество Youtube изображения"
+
+#: admin/class-admin-options.php:461
+msgid "(by Janis Elsts)"
+msgstr "(от Janis Elsts)"
+
+#: admin/class-admin-options.php:461
+msgid "Broken Link Checker"
+msgstr "Broken Link Checker"
+
+#: admin/class-admin-options.php:460
+msgid "Inline Comments"
+msgstr "Inline Comments"
+
+#: admin/class-admin-options.php:459
+msgid "(by Yoast)"
+msgstr "(от Yoast)"
+
+#: admin/class-admin-options.php:459
+msgid "WordPress SEO"
+msgstr "WordPress SEO"
+
+#: admin/class-admin-options.php:458 admin/class-admin-options.php:460
+msgid "(on my part)"
+msgstr "(от меня)"
+
+#: admin/class-admin-options.php:458
+msgid "wBounce"
+msgstr "wBounce"
+
+#: admin/class-admin-options.php:456
+msgid "Personal tip: Must use plugins"
+msgstr "Личная подсказка: Крайне желательно использовать следующие плагины"
+
+#: admin/class-admin-options.php:446
+msgid "Support me with %1$sa delicious lunch%2$s or give this plugin a 5 star rating %3$son WordPress.org%4$s."
+msgstr "Но вы можете поддержать меня %1$sвкусным ланчем%2$s или поставить плагину 5 звезд в рейтинге %3$sна WordPress.org%4$s."
+
+#: admin/class-admin-options.php:445
+msgid "It's free!"
+msgstr "Это бесплатно!"
+
+#: admin/class-admin-options.php:442
+msgid "I'm the developer of this plugin. Love it!"
+msgstr "Разработчик плагина. Сделано с любовью!"
+
+#: admin/class-admin-options.php:441
+msgid "that's me."
+msgstr "это я."
+
+#: admin/class-admin-options.php:431
+msgid "Update posts to setup your plugin for the first time or when recommended somewhere."
+msgstr "Обновление записей завершит первичную настройку плагина и может использоваться, при необходимости, в будущем."
+
+#: admin/class-admin-options.php:411
+msgid "Colour of the vimeo controls"
+msgstr "Цвет элементов управления Vimeo плеера"
+
+#: admin/class-admin-options.php:407
+msgid "If checked, the Vimeo video title will be displayed on preview image."
+msgstr "Если опция активна, заголовок Vimeo видео будет отображаться на изображении."
+
+#: admin/class-admin-options.php:405
+msgid "Display Vimeo title"
+msgstr "Отображение Vimeo заголовков"
+
+#: admin/class-admin-options.php:401
+msgid "If checked, Lazy Load will not be used for <b>Vimeo</b> videos."
+msgstr "Если опция активна, Lazy Load не будет использоваться для видеороликов <b>Vimeo</b>."
+
+#: admin/class-admin-options.php:399
+msgid "Disable Lazy Load for Vimeo"
+msgstr "Отключить Lazy Load для Vimeo"
+
+#: admin/class-admin-options.php:394
+msgid "Lazy Load for Vimeo"
+msgstr "Lazy Load для Vimeo"
+
+#: admin/class-admin-options.php:385
+msgid "Only check this box if you actually use this feature (for reason of performance)! If checked, you can paste a Youtube URL into a text widget and it will be lazy loaded."
+msgstr "Активируйте только, если вы на самом деле будете использовать данную функцию (это влияет на производительность)! Когда опция активна, вы можете вставить Youtube URL в текстовый виджет, и он будет отображен при помощи Lazy Load."
+
+#: admin/class-admin-options.php:383
+msgid "Support for widgets"
+msgstr "Поддержка виджетов"
+
+#: admin/class-admin-options.php:379
+msgid "If checked, Youtube player controls will not be displayed."
+msgstr "Если опция активна, кнопки управления плеером Youtube не будут отображаться."
+
+#: admin/class-admin-options.php:377
+msgid "Hide player controls"
+msgstr "Скрывать кнопки управления плеером"
+
+#: admin/class-admin-options.php:373
+msgid "If checked, related videos at the end of your videos will not be displayed."
+msgstr "Если опция активна, похожие видео в конце клипов не будут отображаться."
+
+#: admin/class-admin-options.php:371
+msgid "Hide related videos"
+msgstr "Скрывать похожие видео"
+
+#: admin/class-admin-options.php:367
+msgid "If checked, information like the video title and uploader will not be displayed when the video starts playing. This option only affects the playing video, not the video thumbnail."
+msgstr "Если опция активна, заголовок видео и автор не будут отображаться при воспроизведении. Эта опция влияет только на проигрывание видео, но не на изображения."
+
+#: admin/class-admin-options.php:365
+msgid "Hide title/uploader"
+msgstr "Скрывать заголовок/автора"
+
+#: admin/class-admin-options.php:361
+msgid "If checked, video annotations (like \"subscribe to channel\") will not be shown."
+msgstr "Если опция активна, аннотации к видео (например, \"подписка на канал\") не будут отображаться."
+
+#: admin/class-admin-options.php:359
+msgid "Hide annotations"
+msgstr "Скрывать аннотации"
+
+#: admin/class-admin-options.php:354
+msgid "White"
+msgstr "Белый"
+
+#: admin/class-admin-options.php:353
+msgid "Red (default)"
+msgstr "Красный (по умолчанию)"
+
+#: admin/class-admin-options.php:350
+msgid "Colour of progress bar"
+msgstr "Цвет индикатора загрузки и воспроизведения видео"
+
+#: admin/class-admin-options.php:344
+msgid "Light"
+msgstr "Светлый"
+
+#: admin/class-admin-options.php:343
+msgid "Dark (default)"
+msgstr "Темный (по-умолчанию)"
+
+#: admin/class-admin-options.php:340
+msgid "Player colour"
+msgstr "Цвет плеера"
+
+#: admin/class-admin-options.php:336
+msgid "Define which thumbnail quality should be used by default. When a maximum resolution thumbnail is not available, the standard thumbnail will be loaded. This setting can be overridden on every individual page/post."
+msgstr "Определите качество изображений, которое должно использоваться по умолчанию. Когда максимальное разрешение не доступно, будут использованы изображения со стандартным качеством. Этот параметр может быть переопределен для каждой отдельной страницы/записи."
+
+#: admin/class-admin-options.php:334 admin/class-meta.php:71
+msgid "Max resolution"
+msgstr "Максимальное разрешение"
+
+#: admin/class-admin-options.php:333 admin/class-meta.php:70
+msgid "Standard quality"
+msgstr "Стандартное качество"
+
+#: admin/class-admin-options.php:330
+msgid "Thumbnail quality"
+msgstr "Качество изображений"
+
+#: admin/class-admin-options.php:321
+msgid "Convert all Youtube videos into a playlist and automatically add your corporate video, product teaser or another video advertisement. You have to insert the plain Youtube %1$s, like %2$s or a comma-separated list of video IDs (%3$s)."
+msgstr "Конвертируйте видеоролики Youtube в плейлист и автоматически добавьте, свое корпоративное видео, тизер продукта или другую рекламу. Вы должны просто вставить простой Youtube %1$s, например %2$s или, разделенный запятыми, список идентификаторов видео (%3$s)."
+
+#: admin/class-admin-options.php:318
+msgid "(multiple IDs allowed)"
+msgstr "(допустимы множественные  ID)"
+
+#: admin/class-admin-options.php:318
+msgid "Post-roll"
+msgstr "после видео"
+
+#: admin/class-admin-options.php:317
+msgid "Pre-roll"
+msgstr "перед видео"
+
+#: admin/class-admin-options.php:315
+msgid "Pre-roll/post-roll ads"
+msgstr "Реклама перед/после видео"
+
+#: admin/class-admin-options.php:311
+msgid "If checked, the Youtube video title will be displayed on preview image."
+msgstr "Если опция активна, заголовок Youtube видео будет отображаться на изображении."
+
+#: admin/class-admin-options.php:309
+msgid "Display Youtube title"
+msgstr "Отображение заголовков Youtube"
+
+#: admin/class-admin-options.php:301
+msgid "If checked, Lazy Load will not be used for %1$s videos."
+msgstr "Если опция активна, Lazy Load не будет использоваться для %1$s видеороликов."
+
+#: admin/class-admin-options.php:297
+msgid "Disable Lazy Load for Youtube"
+msgstr "Отключить Lazy Load для Youtube"
+
+#: admin/class-admin-options.php:292
+msgid "Lazy Load for Youtube"
+msgstr "Lazy Load для Youtube"
+
+#: admin/class-admin-options.php:277
+msgid "Donation: \"I have donated already or will do so soon.\""
+msgstr "Donation: \"Я уже пожертвовал или вскоре внесу пожертвование.\""
+
+#: admin/class-admin-options.php:274
+msgid "Link attribution: Display a subtle \"i\" (information link) that is placed in the top right of every video and helps that the plugin gets spread."
+msgstr "Поддержка ссылкой: Показывать небольшой знак \"i\" справа вверху каждого видео, чтобы помочь распространению плагина."
+
+#: admin/class-admin-options.php:273
+msgid "No attribution: \"I can not afford to give appropriate credit for this free plugin.\""
+msgstr "Без поддержки: \"Я не смогу позволить себе, выразить благодарность за этот бесплатный плагин.\""
+
+#: admin/class-admin-options.php:270
+msgid "give appropriate credit for my time-consuming efforts"
+msgstr "выразить благодарность за моё время и затраченные усилия"
+
+#: admin/class-admin-options.php:270
+msgid "Attribution"
+msgstr "Attribution"
+
+#: admin/class-admin-options.php:266
+msgid "Only check this box if you actually use this feature (for reason of performance). If checked, you can paste a Youtube or Vimeo URL into tables that are created with TablePress and it will be lazy loaded."
+msgstr "Активируйте, только, если вы будете использовать эту функцию (влияет на производительность). Когда опция активирована, вы можете вставить Youtube или Vimeo URL в таблицы, создаваемые при помощи TablePress, и это будет обрабатываться Lazy Load."
+
+#: admin/class-admin-options.php:264
+msgid "Support for TablePress"
+msgstr "Поддержка TablePress"
+
+#: admin/class-admin-options.php:260 admin/class-admin-options.php:305
+#: admin/class-admin-options.php:401
+msgid "Updates on this option will only affect new posts and posts you update afterwards with the \"Update Posts\" button at the bottom of this form."
+msgstr "Изменение этой опции будет влиять только на новые записи или обновленные, при помощи, расположенной внизу данной формы, кнопки \"Update Posts\"."
+
+#: admin/class-admin-options.php:260 admin/class-admin-options.php:305
+#: admin/class-admin-options.php:401
+msgid "Important:"
+msgstr "Важно:"
+
+#: admin/class-admin-options.php:255
+msgid "Add schema.org markup to your Youtube and Vimeo videos. Those changes don't seem to affect your search ranking because videos and schema.org markup %1$sshould be visible%2$s without JavaScript (but that cannot be the case when videos are lazy loaded)."
+msgstr "Добавить разметку schema.org для Youtube и Vimeo видео. Эти изменения, по-видимому, не влияют на результаты поискового ранжирования, потому что видео и schema.org разметка %1$sдолжны быть видны%2$s без JavaScript (но это невозможно, когда для видео используется Lazy Load)."
+
+#: admin/class-admin-options.php:251
+msgid "Schema.org Markup"
+msgstr "Разметка Schema.org"
+
+#: admin/class-admin-options.php:245
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: admin/class-admin-options.php:240
+msgid "Contain"
+msgstr "Contain"
+
+#: admin/class-admin-options.php:239
+msgid "Cover"
+msgstr "Cover"
+
+#: admin/class-admin-options.php:236
+msgid "Thumbnail Size"
+msgstr "Размер изображения"
+
+#: admin/class-admin-options.php:231
+msgid "Red Youtube button image"
+msgstr "Красная кнопка YouTube"
+
+#: admin/class-admin-options.php:230
+msgid "Youtube button image"
+msgstr "Кнопка YouTube"
+
+#: admin/class-admin-options.php:229
+msgid "Black Pulse (CSS-only)"
+msgstr "Черная Pulse (используется только CSS)"
+
+#: admin/class-admin-options.php:228
+msgid "Black (CSS-only)"
+msgstr "Черная (используется только CSS)"
+
+#: admin/class-admin-options.php:227
+msgid "White Pulse (CSS-only)"
+msgstr "Белая Pulse (используется только CSS)"
+
+#: admin/class-admin-options.php:226
+msgid "White (CSS-only)"
+msgstr "Белая (используется только CSS)"
+
+#: admin/class-admin-options.php:223
+msgid "Play Button"
+msgstr "Кнопка Play"
+
+#: admin/class-admin-options.php:219
+msgid "Check this to improve responsiveness. Video aspect ratio will be 16:9."
+msgstr "Включите для улучшения адаптивности. Соотношение сторон видео будет 16:9."
+
+#: admin/class-admin-options.php:217
+msgid "Tip"
+msgstr "подсказка"
+
+#: admin/class-admin-options.php:217
+msgid "Responsive Mode"
+msgstr "Responsive Mode"
+
+#: admin/class-admin-options.php:213
+msgid "It can happen that &ndash; when this option is checked &ndash; videos on pages do not lazy load although they should. It works on most sites. Simply test it."
+msgstr "Возможно, при активации этой опции, видео не будет должным образом обрабатываться и отображаться при помощи Lazy Load. Тем неменее, на большинстве сайтов, данная опция работает корректно. Просто протестируйте её."
+
+#: admin/class-admin-options.php:211
+msgid "to improve performance"
+msgstr "для улучшения производительности"
+
+#: admin/class-admin-options.php:211
+msgid "Only load CSS/JS when needed"
+msgstr "Загрузка CSS/JS только по необходимости"
+
+#: admin/class-admin-options.php:193
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: admin/class-admin-options.php:192
+msgid "Youtube"
+msgstr "Youtube"
+
+#: admin/class-admin-options.php:191 admin/class-admin-options.php:206
+msgid "General/Styling"
+msgstr "Основное/Стили"
+
+#: admin/class-admin-options.php:187
+msgid "Speed up your site and customise your video player!"
+msgstr "Улучшите скорость загрузки сайта и настройте ваш видеоплеер!"
+
+#: admin/class-admin-options.php:186
+msgid "Version"
+msgstr "Версия"
+
+#: admin/class-admin-options.php:186
+msgid "Website by Kevin Weber"
+msgstr "Вебсайт Кевина Вебера"
+
+#: admin/class-admin-options.php:186
+msgid "by"
+msgstr "от"
+
+#: admin/class-admin-options.php:182
+msgid "Your posts have been updated successfully."
+msgstr "Ваши записи успешно обновлены."
+
+#. #-#-#-#-#  lazy-load-for-videos-code.pot (Lazy Load for Videos 2.3.1) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-admin-options.php:138 admin/class-admin-options.php:186
+msgid "Lazy Load for Videos"
+msgstr "Lazy Load for Videos"
+
+#: admin/class-admin-options.php:43
+msgid "Settings"
+msgstr "Настройки"

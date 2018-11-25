@@ -1,0 +1,1618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kathmag v10.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-05-23 18:31+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ kathmag
+#: 404.php:25
+msgid "404 Error !"
+msgstr "404 Ошибка"
+
+# @ kathmag
+#: 404.php:32
+msgid "You landed to a 404 error page. The post you are looking for either has moved or doesn't exists in this server"
+msgstr "Ошибка 404. Страница не найдена"
+
+# @ kathmag
+#: 404.php:38
+msgid "Go Homepage"
+msgstr "На главную"
+
+# @ kathmag
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий для &ldquo;%1$s&rdquo;"
+
+# @ kathmag
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ kathmag
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ kathmag
+#: footer.php:78
+msgid "Copyright  &copy; "
+msgstr ""
+
+# @ kathmag
+#: functions.php:53
+msgid "Primary"
+msgstr "Основное"
+
+# @ kathmag
+#: functions.php:54
+msgid "Top Menu"
+msgstr "Главное меню"
+
+# @ kathmag
+#: functions.php:55
+msgid "Footer"
+msgstr ""
+
+# @ kathmag
+#: functions.php:121
+msgid "Sidebar Widget Area"
+msgstr ""
+
+# @ kathmag
+#: functions.php:123
+msgid "Add widgets here."
+msgstr "Добавьте свои виджеты."
+
+# @ kathmag
+#: functions.php:131
+msgid "Header Advertisement"
+msgstr ""
+
+# @ kathmag
+#: functions.php:133 functions.php:173 functions.php:183
+msgid "Add Advertisement Here"
+msgstr ""
+
+# @ kathmag
+#: functions.php:141
+msgid "Footer Widget Area Left"
+msgstr ""
+
+# @ kathmag
+#: functions.php:143 functions.php:153 functions.php:163
+msgid "Add Wigets Here"
+msgstr ""
+
+# @ kathmag
+#: functions.php:151
+msgid "Footer Widget Area Middle"
+msgstr ""
+
+# @ kathmag
+#: functions.php:161
+msgid "Footer Widget Area Right"
+msgstr ""
+
+# @ kathmag
+#: functions.php:171
+msgid "Advertisement Widget Area One"
+msgstr ""
+
+# @ kathmag
+#: functions.php:181
+msgid "Advertisement Widget Area Two"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/class.info.php:121
+#: sparklewpthemes/admin/about-theme/class.info.php:122
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid "Welcome! Thank you for choosing %1$s. To fully take advantage of the best our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/class.info.php:126
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/class.info.php:231
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/class.info.php:340
+#: sparklewpthemes/admin/about-theme/class.info.php:381
+msgid "Manage Plugins"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:20
+#, php-format
+msgid "%1$s Kathmag, a free WordPress Magazine Theme, is stylish and beautiful theme suitable for creating Magazine, News, News Portal, Blog and Digital Content Publishing Websites. It is a modern theme with elegant and responsive design and is completely built on Customizer which allows you to customize theme settings easily with live previews. There are three sections in front page, Top, Middle and Bottom where different customizer block/section can be added, and dragged and dropped to arrange them in order. It has 7+ widget areas which includes Advertisement widget areas. There are 4+ widgets, which can be used in Sidebar and Footer widget areas. Kathmag is compatible with all types of devices, and is compatible with all kinds of browsers. Kathmag supports Woocommerce, Jetpack, Contact Form 7 and some social sharing plugins ! Official Support Forum: Support Full Demo : http://demo.sparklewpthemes.com/kathmag/demos/ and Docs: http://docs.sparklewpthemes.com/kathmag"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:25
+msgid "Support"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:27
+#: sparklewpthemes/admin/about-theme/info.php:89
+#: sparklewpthemes/admin/about-theme/info.php:92
+msgid "Demo Content"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:28
+msgid "Upgrade to Pro"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:35
+msgid "Theme Details"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:40
+msgid "View Demo"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:45
+#: sparklewpthemes/admin/about-theme/info.php:67
+#: sparklewpthemes/admin/about-theme/info.php:113
+msgid "View Documentation"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:50
+msgid "Rate This Theme"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:55
+#: sparklewpthemes/admin/about-theme/info.php:142
+msgid "Buy Pro Themes"
+msgstr " "
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:64
+#: sparklewpthemes/admin/about-theme/info.php:110
+msgid "Theme Documentation"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:66
+#: sparklewpthemes/admin/about-theme/info.php:112
+msgid "Please check our full documentation for detailed information on how to setup and customize the theme."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:73
+#: sparklewpthemes/admin/about-theme/info.php:76
+msgid "Static Front Page"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:75
+msgid "To achieve custom home page other than blog listing, you need to create and set static front page."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:81
+#: sparklewpthemes/customizers/options/option-init.php:9
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:83
+msgid "Theme uses Customizer API for theme options. Using the Customizer you can easily customize different aspects of the theme."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:84
+msgid "Customize"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:91
+#, php-format
+msgid "To import sample demo content, %1$s plugin should be installed and activated. After plugin is activated, visit Import Demo Data menu under Appearance."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:91
+#: sparklewpthemes/admin/about-theme/info.php:136
+#: sparklewpthemes/tgm/tgm.php:44
+msgid "One Click Demo Import"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:101
+#: sparklewpthemes/admin/about-theme/info.php:104
+msgid "Contact Support"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:103
+msgid "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:119
+msgid "Child Theme"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:121
+msgid "For advanced theme customization, it is recommended to use child theme rather than modifying the theme file itself. Using this approach, you wont lose the customization after theme update."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:122
+msgid "Learn More"
+msgstr "Узнать больше"
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:131
+msgid "Theme supports some helpful WordPress plugins to enhance your site. But, please enable only those plugins which you need in your site. For example, enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:136
+#, php-format
+msgid "To import demo content for this theme, %1$s plugin is needed. Please make sure plugin is installed and activated. After plugin is activated, you will see Import Demo Data menu under Appearance."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/admin/about-theme/info.php:141
+msgid "If you want more advanced features then you can upgrade to the premium version of the theme."
+msgstr ""
+
+# @ kathmag
+#. translators: used between list items, there is a space after the comma
+#: sparklewpthemes/core/template-tags.php:56
+msgid ", "
+msgstr ""
+
+# @ kathmag
+#. translators: 1: list of categories.
+#. translators: 1: list of tags.
+#: sparklewpthemes/core/template-tags.php:59
+#: sparklewpthemes/core/template-tags.php:73
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+# @ kathmag
+#. translators: used between list items, there is a space after the comma
+#: sparklewpthemes/core/template-tags.php:70
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/customizer-pro/class-customize.php:77
+msgid "Upgrade To Education Web Pro"
+msgstr " "
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/choices.php:16
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/choices.php:97
+#: sparklewpthemes/customizers/functions/choices.php:111
+msgid "Left"
+msgstr "Слева"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/choices.php:98
+#: sparklewpthemes/customizers/functions/choices.php:112
+msgid "Right"
+msgstr "Справа"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/choices.php:113
+msgid "None"
+msgstr "Отсутствует"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/controls.php:133
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:46
+#: sparklewpthemes/customizers/options/home-options/option-top.php:53
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/controls.php:134
+#: sparklewpthemes/customizers/functions/controls.php:185
+msgid "Latest Posts"
+msgstr "Новые записи"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/controls.php:211
+msgid "Delete"
+msgstr "Удалить"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/controls.php:214
+msgid "|"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/controls.php:217
+msgid "Close"
+msgstr "Закрыть"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/defaults.php:69
+msgid "Breaking News"
+msgstr "Последние новости"
+
+# @ kathmag
+#: sparklewpthemes/customizers/functions/defaults.php:83
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:14
+msgid "Bottom Section Settings"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:33
+msgid "Bottom Section Elements"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:36
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:35
+msgid "News Section"
+msgstr "Раздел новостей"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:37
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:36
+msgid "Add News Layout"
+msgstr "Добавить новость расположение"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:42
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:54
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:66
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:41
+#: sparklewpthemes/theme-widgets/widgets/widget-author.php:124
+#: sparklewpthemes/theme-widgets/widgets/widget-recent.php:117
+#: sparklewpthemes/theme-widgets/widgets/widget-slider.php:125
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:181
+msgid "Title"
+msgstr "Заголовок"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:48
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:60
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:72
+msgid "Category"
+msgstr "Категории"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:78
+msgid "Bottom News Layouts"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:79
+msgid "Select News Layout"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:86
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:58
+#: sparklewpthemes/customizers/options/home-options/option-top.php:66
+#: sparklewpthemes/theme-widgets/widgets/widget-slider.php:149
+msgid "No of Posts"
+msgstr "Число записей"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:92
+#: sparklewpthemes/customizers/options/home-options/option-top.php:72
+msgid "Enable Banner Layout"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:94
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:65
+#: sparklewpthemes/customizers/options/home-options/option-top.php:74
+msgid "Yes"
+msgstr "Да"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-bottom.php:95
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:66
+#: sparklewpthemes/customizers/options/home-options/option-top.php:75
+msgid "No"
+msgstr "Нет"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-home.php:13
+#: sparklewpthemes/customizers/options/home-options/option-home.php:24
+msgid "Enable Front Page"
+msgstr "Включение главной страницы"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:13
+msgid "Middle Section Settings"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:32
+msgid "Middle Section Elements"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:51
+msgid "News Layouts"
+msgstr "Новости расположение"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:52
+msgid "Select the News Layout"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-middle.php:63
+msgid "Enable News Layout"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-sidebar.php:13
+msgid "Front Page Sidebar Options"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-sidebar.php:23
+#: sparklewpthemes/customizers/options/theme-options/option-archive.php:25
+#: sparklewpthemes/meta-boxes/page-metabox.php:10
+#: sparklewpthemes/meta-boxes/post-metabox.php:10
+msgid "Sidebar Position"
+msgstr "Расположение Сайдбара"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-ticker.php:13
+msgid "Ticker News Options"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-ticker.php:14
+msgid "Configurations for ticker news"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-ticker.php:25
+msgid "Show Ticker News"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-ticker.php:37
+msgid "Ticker News Block Title"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-ticker.php:49
+msgid "Ticker News Categories"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-ticker.php:62
+msgid "Number of Ticker News"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-ticker.php:74
+msgid "Show Ticker In Blog Page"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:14
+msgid "Top Section Settings"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:24
+msgid "Show Banner In Blog Page"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:43
+msgid "Top Section Elements"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:44
+msgid "Top Section is visible in both front page and blog page."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:47
+msgid "Banner Section"
+msgstr "Раздел Баннеры"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:48
+msgid "Add Banner"
+msgstr "Добавить баннер"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:58
+msgid "Banner Layouts"
+msgstr "Баннер расположение"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/home-options/option-top.php:59
+msgid "Select Banner Layout"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/option-init.php:10
+msgid "Spark Construction Theme Options"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/option-init.php:15
+msgid "Front Page Options"
+msgstr "Настройки Front Page (главной страницы)"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/option-init.php:16
+msgid "Spark Construction Customization Options"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-archive.php:13
+msgid "Archive Page Options"
+msgstr "Опции архивной страницы"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-archive.php:14
+msgid "The options are affective on all archive pages such as blog, search, archive etc..."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-breadcrumb.php:15
+msgid "Breadcrumb Options"
+msgstr "Настройка цепочки навигации"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-breadcrumb.php:16
+msgid "Configurations of Breadcrumb"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-breadcrumb.php:27
+msgid "Enable Breadcrumb"
+msgstr "Включить \"хлебные крошки\""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-footer.php:14
+msgid "Footer Options"
+msgstr "Настройки подвала"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-footer.php:15
+msgid "Configurations of Footer"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-footer.php:25
+msgid "Enable Bottom Footer"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-footer.php:36
+msgid "Enable Scroll Top Button"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-footer.php:47
+msgid "Copyright Text"
+msgstr "Авторские права"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-header.php:13
+msgid "Header Options "
+msgstr "Опции заголовка"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-header.php:14
+#: sparklewpthemes/customizers/options/theme-options/option-meta.php:16
+msgid "Configurations of Header"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-header.php:24
+msgid "Enable Top Header"
+msgstr "Включить верх шапки"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-header.php:35
+msgid "Enable Search Button"
+msgstr "Включить кнопку поиска"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:13
+msgid "Social Links"
+msgstr "Ссылки соц. сетей"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:24
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:187
+msgid "Facebook Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:36
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:193
+msgid "Twitter Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:48
+msgid "Google Plus Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:60
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:199
+msgid "Instagram Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:72
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:223
+msgid "Linkedin Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:84
+msgid "Pinterest Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:96
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:205
+msgid "Youtube Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-links.php:108
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:229
+msgid "Vimeo Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-meta.php:15
+msgid "Post Meta Options"
+msgstr "Настройки мета-информации"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-meta.php:27
+msgid "Enable Post Date"
+msgstr "Включить дату публикации"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-meta.php:39
+msgid "Enable Author Name"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-meta.php:51
+msgid "Enable Comments Number"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-others.php:13
+msgid "Miscellaneous"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-others.php:24
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-others.php:25
+msgid "Set the length of short content displayed in post"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-post.php:13
+msgid "Single Post Options"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-post.php:14
+msgid "Configurations for single post page."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-post.php:25
+msgid "Show Post Tags & Categories"
+msgstr "Показать теги & категории "
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-post.php:37
+msgid "Enable Related Posts Block"
+msgstr "Показать похожие записи"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-post.php:49
+msgid "Related Posts Block Title"
+msgstr "Заголовок блока похожих записей"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-post.php:62
+msgid "Number of Related Posts"
+msgstr "Количество похожих записей"
+
+# @ kathmag
+#: sparklewpthemes/customizers/options/theme-options/option-post.php:75
+msgid "Enable Comments"
+msgstr "Включить комментарии"
+
+# @ kathmag
+#: sparklewpthemes/functions/filters.php:58
+#: sparklewpthemes/functions/filters.php:59
+msgid "Search"
+msgstr "Поиск"
+
+# @ kathmag
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: sparklewpthemes/functions/helpers.php:26
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+# @ kathmag
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: sparklewpthemes/functions/helpers.php:31
+msgctxt "Work Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/functions/helpers.php:60
+msgid "Add Menu"
+msgstr "Добавить меню"
+
+# @ kathmag
+#: sparklewpthemes/functions/helpers.php:62
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+# @ kathmag
+#. translators: %s: search query.
+#: sparklewpthemes/functions/hooks.php:60
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ kathmag
+#: sparklewpthemes/functions/hooks.php:64
+msgid "Error Page"
+msgstr "Страница ошибки"
+
+# @ kathmag
+#: sparklewpthemes/functions/hooks.php:102
+msgid "&laquo;"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/functions/hooks.php:103
+msgid "&raquo;"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/meta-boxes/page-metabox.php:36
+#: sparklewpthemes/meta-boxes/post-metabox.php:35
+msgid "checked"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/ocdi/ocdi.php:22
+msgid "Theme Demo Content"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+# @ kathmag
+#. translators: %s: plugin name.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+# @ kathmag
+#. translators: %s: plugin name.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагинов: %s"
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name(s).
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: plugin name(s).
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: plugin name(s).
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: plugin name(s).
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: plugin name(s).
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: plugin name(s).
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:386
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:827
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2533
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:387
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: dashboard link.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:934
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:1121
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ kathmag
+#. translators: %s: version number
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+# @ kathmag
+#. translators: 1: install status, 2: update status
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+# @ kathmag
+#. translators: 1: number of plugins.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: number of plugins.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: number of plugins.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#. translators: 1: number of plugins.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+# @ kathmag
+#. translators: %2$s: plugin name in screen reader markup
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+# @ kathmag
+#. translators: %2$s: plugin name in screen reader markup
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+# @ kathmag
+#. translators: %2$s: plugin name in screen reader markup
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ kathmag
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:2952
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name, 2: error message.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3509
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3509
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+# @ kathmag
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: sparklewpthemes/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/tgm.php:29
+msgid "Contact Form 7"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/tgm/tgm.php:39
+msgid "WooCommerce"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-author.php:20
+msgid "Displays short information of Author"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-author.php:23
+msgid "Kathmag: Author"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-author.php:129
+msgid "Author Page"
+msgstr "Страница автора"
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-author.php:136
+msgid "&mdash; Select Page &mdash;"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-author.php:143
+msgid "Author Designation"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-recent.php:19
+msgid "Displays recent posts."
+msgstr "Отображать последние записи"
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-recent.php:22
+msgid "Kathmag: Recent"
+msgstr "Kathmag: Последнее"
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-recent.php:124
+msgid "No of Recent Posts"
+msgstr "Количество последних записей"
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-slider.php:19
+msgid "Displays posts in slider."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-slider.php:22
+msgid "Kathmag: Slider Post"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-slider.php:131
+msgid "Select Category "
+msgstr "Выбрать категорию"
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-slider.php:141
+msgid "Show Recent Posts"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:19
+msgid "Displays Social Links."
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:22
+msgid "Kathmag: Social"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:211
+msgid "VK Link"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/theme-widgets/widgets/widget-social.php:217
+msgid "Google Plus"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:264
+msgid "Browse:"
+msgstr "Обзор:"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:266
+msgid "Home"
+msgstr "Главная"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr "404 Ничего не найдено"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:268
+msgid "Archives"
+msgstr "Архивы"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr "Страница комментариев %s"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr "Минуты %s"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr "Неделя %s"
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:788
+#: sparklewpthemes/third-party/breadcrumbs.php:817
+#: sparklewpthemes/third-party/breadcrumbs.php:844
+#: sparklewpthemes/third-party/breadcrumbs.php:871
+#: sparklewpthemes/third-party/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:789
+#: sparklewpthemes/third-party/breadcrumbs.php:845
+#: sparklewpthemes/third-party/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:790
+#: sparklewpthemes/third-party/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+# @ kathmag
+#: sparklewpthemes/third-party/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+# @ kathmag
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Страница не найдена"
+
+# @ kathmag
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ kathmag
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, ничего не найдено по условиям поиска. Попробуйте еще раз, используя другие ключевые слова."
+
+# @ kathmag
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Может быть, получится через форму поиска."
+
+# @ kathmag
+#: template-parts/content-page.php:29 template-parts/content-single.php:41
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ kathmag
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+# @ kathmag
+#: template-parts/content-single.php:53
+msgid "Tags & Categories :"
+msgstr "Метки & Категории :"
